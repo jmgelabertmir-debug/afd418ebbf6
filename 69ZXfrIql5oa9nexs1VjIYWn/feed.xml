@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resums de la tesi</title>
+    <link>https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn</link>
+    <atom:link href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>ca</language>
+    <description>La tesi contada en sis temporades: Prevenir, Digitalitzar, Construir, Escoltar, Conversar i Vigilar. Resums en àudio, en català, dels articles que la fonamenten (UIB). Ús privat.</description>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/portada-1400.jpg"/>
+    <image><url>https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/portada-1400.jpg</url><title>Resums de la tesi</title><link>https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn</link></image>
+    <itunes:category text="Science"/>
+    <itunes:author>Joan Miquel Gelabert</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Sat, 03 Oct 2026 21:53:01 +0000</lastBuildDate>
+    <item>
+      <title>T1·Presentació · Abans de la tempesta</title>
+      <guid isPermaLink="false">serie-T1E0</guid>
+      <pubDate>Thu, 01 Jan 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T1E0_presentacio.mp3" length="985778" type="audio/mpeg"/>
+      <itunes:duration>1:14</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <description><![CDATA[<p>Episodi de presentació de la primera temporada, PREVENIR. Recorre sis articles que responen per què prevenir l'ansietat i la depressió en joves, a qui adreçar la prevenció, amb quina intervenció i com mesurar-ne el resultat, i explica per què aquestes decisions són la base de la tesi.</p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E0.jpg"/>
+    </item>
+    <item>
+      <title>T1·E1 · Tres paraigües</title>
+      <guid isPermaLink="false">serie-T1E1</guid>
+      <pubDate>Thu, 01 Jan 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T1E1_27_prevencio-depressio-ansietat-2015.mp3" length="7280775" type="audio/mpeg"/>
+      <itunes:duration>9:59</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Stockings et al. (2015), Psychological Medicine. Metaanàlisi de 146 assajos amb infants i adolescents que valora per primera vegada l'eficàcia conjunta de la prevenció universal, selectiva i indicada sobre l'ansietat i la depressió. La prevenció indicada redueix el risc d'aparició de trastorns (risc relatiu de 0,48 als 6-9 mesos), però l'efecte decau i només dos estudis varen fer servir internet.</p><p><b>Referència (APA 7):</b> Stockings, E. A., Degenhardt, L., Dobbins, T., Lee, Y. Y., Erskine, H. E., Whiteford, H. A., &amp; Patton, G. (2015). Preventing depression and anxiety in young people: A review of the joint efficacy of universal, selective and indicated prevention. <i>Psychological Medicine</i>, <i>46</i>(1), 11–26. https://doi.org/10.1017/s0033291715001725</p><p><a href="https://doi.org/10.1017/s0033291715001725">DOI</a> · <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6C8B87CA721B79D57FD89B3AD4929367/S0033291715001725a.pdf/div-class-title-preventing-depression-and-anxiety-in-young-people-a-review-of-the-joint-efficacy-of-universal-selective-and-indicated-prevention-div.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Inscripci%C3%B3%20doctorat/Referencies_citades/Stockings_2015_Preventing_depression_anxiety_young_people_Psychol_Med.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E1.jpg"/>
+    </item>
+    <item>
+      <title>T1·E1 · Tres paraigües (vídeo)</title>
+      <guid isPermaLink="false">serie-T1E1-video</guid>
+      <pubDate>Thu, 01 Jan 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/27_prevencio-depressio-ansietat-2015.mp4" length="4730407" type="video/mp4"/>
+      <itunes:duration>6:33</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E1.jpg"/>
+    </item>
+    <item>
+      <title>T1·E2 · Regar on cal</title>
+      <guid isPermaLink="false">serie-T1E2</guid>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T1E2_32_prevencio-escolar-2021.mp3" length="8679466" type="audio/mpeg"/>
+      <itunes:duration>11:55</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Werner-Seidler et al. (2021). Revisió sistemàtica i metaanàlisi actualitzada de 118 assajos escolars de prevenció de la depressió i l'ansietat. Els efectes són petits (g = 0,21 en depressió i 0,18 en ansietat), més grans en els programes dirigits que en els universals per a la depressió, i sense diferències entre format digital i presencial.</p><p><b>Referència (APA 7):</b> Werner-Seidler, A., Spanos, S., Calear, A. L., Perry, Y., Torok, M., O'Dea, B., Christensen, H., &amp; Newby, J. M. (2021). School-based depression and anxiety prevention programs: An updated systematic review and meta-analysis. <i>Clinical Psychology Review</i>, <i>89</i>, Article 102079. https://doi.org/10.1016/j.cpr.2021.102079</p><p><a href="https://doi.org/10.1016/j.cpr.2021.102079">DOI</a> · <a href="https://www.sciencedirect.com/science/article/pii/S0272735821001227/pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Werner-Seidler_2021_School_prevention_meta_analysis_Clin_Psychol_Rev.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E2.jpg"/>
+    </item>
+    <item>
+      <title>T1·E2 · Regar on cal (vídeo)</title>
+      <guid isPermaLink="false">serie-T1E2-video</guid>
+      <pubDate>Thu, 01 Jan 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/32_prevencio-escolar-2021.mp4" length="4958563" type="video/mp4"/>
+      <itunes:duration>6:56</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E2.jpg"/>
+    </item>
+    <item>
+      <title>T1·E3 · Abans del llindar</title>
+      <guid isPermaLink="false">serie-T1E3</guid>
+      <pubDate>Thu, 01 Jan 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T1E3_09_IPD-subthreshold-2025.mp3" length="8280899" type="audio/mpeg"/>
+      <itunes:duration>11:23</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Harrer et al. (2025), The British Journal of Psychiatry. Metaanàlisi amb dades individuals de 10.671 participants de 50 assajos sobre intervencions psicològiques per a la depressió subllindar. L'efecte es manté fins als 12 mesos, creix amb la gravetat inicial i és superior a la mitjana en estudiants universitaris (SMD = -0,59).</p><p><b>Referència (APA 7):</b> Harrer, M., Sprenger, A. A., Illing, S., Adriaanse, M. C., Albert, S. M., Allart, E., Almeida, O. P., Basanovic, J., van Bastelaar, K. M. P., Batterham, P. J., Baumeister, H., Berger, T., Blanco, V., Bø, R., Casten, R. J., Chan, D., Christensen, H., Ciharova, M., Cook, L., ... Ebert, D. D. (2025). Psychological intervention in individuals with subthreshold depression: Individual participant data meta-analysis of treatment effects and moderators. <i>The British Journal of Psychiatry</i>, <i>229</i>(1), 78–91. https://doi.org/10.1192/bjp.2025.56</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents: Continua sense estar clar quines persones amb depressió subllindar es beneficien més de la intervenció psicològica, ni quins efectes a llarg termini té sobre l'empitjorament dels símptomes, la resposta i la remissió.<br/>Objectius: Sintetitzar els beneficis de la intervenció psicològica en persones adultes amb depressió subllindar fins a 2 anys i explorar els modificadors de l'efecte en l'àmbit del participant.<br/>Mètode: Els assajos aleatoritzats que comparaven la intervenció psicològica amb un control inactiu es varen identificar mitjançant una cerca sistemàtica. Es va contactar amb els autors per obtenir dades individuals dels participants (IPD), que es varen analitzar mitjançant una metaanàlisi bayesiana d'una sola etapa. S'hi varen afegir interaccions tractament–covariable per examinar els moderadors. Es varen emprar models jeràrquics additius per explorar els beneficis del tractament condicionats als valors inicials del Patient Health Questionnaire 9 (PHQ-9).<br/>Resultats: Es varen poder incloure les IPD de 10 671 persones (50 estudis). Vàrem trobar efectes significatius sobre la gravetat dels símptomes depressius fins als 12 mesos (diferència de mitjanes estandarditzada [s.m.d.] = −0,48 a −0,27). Els efectes no es varen poder determinar fins als 24 mesos (s.m.d. = −0,18). Es varen obtenir resultats similars per a la reducció del 50 % dels símptomes (risc relatiu = 1,27–2,79), la millora fiable (risc relatiu = 1,38–3,17), l'empitjorament (risc relatiu = 0,67–0,54) i l'estat pràcticament lliure de símptomes (risc relatiu = 1,41–2,80). Entre els moderadors en l'àmbit del participant, només la gravetat inicial de la depressió i de l'ansietat varen ser altament creïbles (P &gt; 0,99). Els beneficis predits del tractament disminuïen amb una menor gravetat dels símptomes, però continuaven essent mínimament importants fins i tot en símptomes molt lleus (s.m.d. = −0,33 per a PHQ-9 = 5).<br/>Conclusions: La intervenció psicològica redueix la càrrega simptomàtica en persones amb depressió subllindar fins a 1 any i protegeix contra l'empitjorament dels símptomes. Els beneficis fins a 2 anys són menys segurs. Trobam un suport sòlid a la intervenció en la depressió subllindar, en particular amb puntuacions del PHQ-9 ≥ 10. En símptomes molt lleus, els tractaments escalables podrien ser una opció atractiva.</p><p><a href="https://doi.org/10.1192/bjp.2025.56">DOI</a> · <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3EAC6FC5460BAAACC5943E27695E212C/S000712502500056Xa.pdf/div-class-title-psychological-intervention-in-individuals-with-subthreshold-depression-individual-participant-data-meta-analysis-of-treatment-effects-and-moderators-div.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Harrer_2025_Subthreshold_depression_IPD_meta_analysis_BJPsych.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E3.jpg"/>
+    </item>
+    <item>
+      <title>T1·E3 · Abans del llindar (vídeo)</title>
+      <guid isPermaLink="false">serie-T1E3-video</guid>
+      <pubDate>Thu, 01 Jan 2026 15:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/09_IPD-subthreshold-2025.mp4" length="5194213" type="video/mp4"/>
+      <itunes:duration>7:24</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E3.jpg"/>
+    </item>
+    <item>
+      <title>T1·E4 · Una clau mestra</title>
+      <guid isPermaLink="false">serie-T1E4</guid>
+      <pubDate>Thu, 01 Jan 2026 16:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T1E4_04_UP-SDP-2017.mp3" length="9291269" type="audio/mpeg"/>
+      <itunes:duration>12:46</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Barlow et al. (2017), JAMA Psychiatry. Assaig d'equivalència amb 223 adults amb trastorns d'ansietat que compara el protocol unificat transdiagnòstic amb protocols específics de cada trastorn i amb llista d'espera. Els dos tractaments actius són equivalents, i amb el protocol unificat és més probable completar el tractament (OR = 3,11).</p><p><b>Referència (APA 7):</b> Barlow, D. H., Farchione, T. J., Bullis, J. R., Gallagher, M. W., Murray-Latin, H., Sauer-Zavala, S., Bentley, K. H., Thompson-Hollands, J., Conklin, L. R., Boswell, J. F., Ametaj, A., Carl, J. R., Boettcher, H. T., &amp; Cassiello-Robbins, C. (2017). The Unified Protocol for transdiagnostic treatment of emotional disorders compared with diagnosis-specific protocols for anxiety disorders. <i>JAMA Psychiatry</i>, <i>74</i>(9), 875. https://doi.org/10.1001/jamapsychiatry.2017.2164</p><p><a href="https://doi.org/10.1001/jamapsychiatry.2017.2164">DOI</a> · <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/5710228">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Barlow_2017_Unified_Protocol_vs_diagnosis_specific_JAMA_Psychiatry.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E4.jpg"/>
+    </item>
+    <item>
+      <title>T1·E4 · Una clau mestra (vídeo)</title>
+      <guid isPermaLink="false">serie-T1E4-video</guid>
+      <pubDate>Thu, 01 Jan 2026 17:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/04_UP-SDP-2017.mp4" length="4904928" type="video/mp4"/>
+      <itunes:duration>7:01</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E4.jpg"/>
+    </item>
+    <item>
+      <title>T1·E5 · Paraigua amb sol</title>
+      <guid isPermaLink="false">serie-T1E5</guid>
+      <pubDate>Thu, 01 Jan 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T1E5_23_UP-prevencio-2021.mp3" length="6710782" type="audio/mpeg"/>
+      <itunes:duration>9:11</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Sauer-Zavala et al. (2020). Assaig aleatoritzat amb 243 estudiants de primer any que avalua Emotions 101, una versió preventiva i en línia del protocol unificat d'una a dues hores. No hi va haver diferències amb la llista d'espera en les variables emocionals i només el 45% va completar el curs, tot i que el grup d'intervenció va obtenir una mitjana acadèmica una mica superior.</p><p><b>Referència (APA 7):</b> Sauer-Zavala, S., Tirpak, J. W., Eustis, E. H., Woods, B. K., &amp; Russell, K. (2021). Unified Protocol for the transdiagnostic prevention of emotional disorders: Evaluation of a brief, online course for college freshmen. <i>Behavior Therapy</i>, <i>52</i>(1), 64–76. https://doi.org/10.1016/j.beth.2020.01.010</p><p><a href="https://doi.org/10.1016/j.beth.2020.01.010">DOI</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Sauer-Zavala_2020_UP_prevention_college_freshmen_Behavior_Therapy.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E5.jpg"/>
+    </item>
+    <item>
+      <title>T1·E5 · Paraigua amb sol (vídeo)</title>
+      <guid isPermaLink="false">serie-T1E5-video</guid>
+      <pubDate>Thu, 01 Jan 2026 19:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/23_UP-prevencio-2021.mp4" length="5181737" type="video/mp4"/>
+      <itunes:duration>7:30</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E5.jpg"/>
+    </item>
+    <item>
+      <title>T1·E6 · Termòmetre de cinc preguntes</title>
+      <guid isPermaLink="false">serie-T1E6</guid>
+      <pubDate>Thu, 01 Jan 2026 20:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T1E6_01_OASIS-ODSIS_2021.mp3" length="2058278" type="audio/mpeg"/>
+      <itunes:duration>2:44</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Osma et al. (2021). Adaptació i validació espanyola de les escales breus OASIS i ODSIS de gravetat i interferència de l'ansietat i la depressió en 382 estudiants universitaris. Totes dues mostren una estructura d'un sol factor i una consistència interna molt alta (0,94 i 0,95), amb punts de tall de 4 per a l'ansietat i 5 per a la depressió.</p><p><b>Referència (APA 7):</b> Osma, J., Martínez-Loredo, V., Díaz-García, A., Quilez-Orden, A., &amp; Peris-Baquero, Ó. (2021). Spanish adaptation of the Overall Anxiety and Depression Severity and Impairment Scales in university students. <i>International Journal of Environmental Research and Public Health</i>, <i>19</i>(1), Article 345. https://doi.org/10.3390/ijerph19010345</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>La prevalença al llarg de la vida dels trastorns emocionals a Espanya és del 4,1 % per a l'ansietat i del 5,2 % per a la depressió, i augmenta entre l'estudiantat universitari. Atesa l'escassetat d'instruments de cribratge amb propietats psicomètriques adequades, aquest estudi té com a objectiu explorar les evidències de validesa de les escales de gravetat i deteriorament global de l'ansietat i la depressió (OASIS i ODSIS). Es varen avaluar 382 estudiants universitaris de la població general quant a símptomes d'ansietat i depressius, així com quant a qualitat de vida. L'estructura unidimensional tant de l'OASIS com de l'ODSIS va explicar el 87,53 % i el 90,60 % de la variància, amb una consistència interna excel·lent (α = 0,94 i 0,95, respectivament) i uns punts de tall òptims de 4 i 5, respectivament. Ambdues escales mostren una associació moderada i significativa amb altres mesures d'ansietat, de depressió i de qualitat de vida. L'OASIS i l'ODSIS han mostrat una bona fiabilitat i unes evidències de validesa sòlides que en recomanen l'ús per a l'avaluació i la detecció precoç de símptomes d'ansietat i depressius, i del deteriorament associat de la qualitat de vida, en la joventut espanyola.</p><p><a href="https://doi.org/10.3390/ijerph19010345">DOI</a> · <a href="https://www.mdpi.com/1660-4601/19/1/345/pdf?version=1640782118">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Inscripci%C3%B3%20doctorat/Referencies_citades/Osma_2021_OASIS_ODSIS_Spanish_university_IJERPH.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T1E6.jpg"/>
+    </item>
+    <item>
+      <title>T2·Presentació · Prevenció a la butxaca</title>
+      <guid isPermaLink="false">serie-T2E0</guid>
+      <pubDate>Thu, 01 Jan 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T2E0_presentacio.mp3" length="1032289" type="audio/mpeg"/>
+      <itunes:duration>1:18</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <description><![CDATA[<p>Episodi de presentació de la segona temporada, DIGITALITZAR. Recorre sis articles que van del panorama de la salut mental digital fins a la teràpia cognitivoconductual per internet en universitaris, i explica per què justifiquen el format web de la tesi i quins riscs cal controlar.</p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E0.jpg"/>
+    </item>
+    <item>
+      <title>T2·E1 · La capsa sense obrir</title>
+      <guid isPermaLink="false">serie-T2E1</guid>
+      <pubDate>Thu, 01 Jan 2026 22:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T2E1_25_psiquiatria-digital-2021.mp3" length="17687669" type="audio/mpeg"/>
+      <itunes:duration>24:27</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Torous et al. (2021), World Psychiatry. Revisió del camp de la psiquiatria digital: aplicacions, xarxes socials, xatbots i realitat virtual. Les aplicacions mostren eficàcia en ansietat i depressió, sobretot amb suport humà, però només el 6,2% de 293 aplicacions comercials té evidència publicada i la retenció mitjana és de 5,5 dies.</p><p><b>Referència (APA 7):</b> Torous, J., Bucci, S., Bell, I. H., Kessing, L. V., Faurholt-Jepsen, M., Whelan, P., Carvalho, A. F., Keshavan, M., Linardon, J., &amp; Firth, J. (2021). The growing field of digital psychiatry: Current evidence and the future of apps, social media, chatbots, and virtual reality. <i>World Psychiatry</i>, <i>20</i>(3), 318–335. https://doi.org/10.1002/wps.20883</p><p><a href="https://doi.org/10.1002/wps.20883">DOI</a> · <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.20883">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Torous_2021_Digital_psychiatry_World_Psychiatry.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E1.jpg"/>
+    </item>
+    <item>
+      <title>T2·E1 · La capsa sense obrir (vídeo)</title>
+      <guid isPermaLink="false">serie-T2E1-video</guid>
+      <pubDate>Thu, 01 Jan 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/25_psiquiatria-digital-2021.mp4" length="5317057" type="video/mp4"/>
+      <itunes:duration>7:33</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E1.jpg"/>
+    </item>
+    <item>
+      <title>T2·E2 · Guanyar a qui seu</title>
+      <guid isPermaLink="false">serie-T2E2</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T2E2_26_standalone-apps-2019.mp3" length="11114172" type="audio/mpeg"/>
+      <itunes:duration>15:19</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Weisel et al. (2019), npj Digital Medicine. Revisió sistemàtica i metaanàlisi de 19 assajos amb 3.681 participants sobre aplicacions mòbils autònomes, sense guia humana. L'efecte en depressió és petit (g = 0,33) i deixa de ser significatiu davant de controls actius; en ansietat només és significatiu en l'anàlisi agrupada.</p><p><b>Referència (APA 7):</b> Weisel, K. K., Fuhrmann, L. M., Berking, M., Baumeister, H., Cuijpers, P., &amp; Ebert, D. D. (2019). Standalone smartphone apps for mental health—A systematic review and meta-analysis. <i>npj Digital Medicine</i>, <i>2</i>(1), Article 118. https://doi.org/10.1038/s41746-019-0188-8</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Tot i que l'ús dels telèfons intel·ligents és omnipresent i el mercat d'aplicacions per a telèfons intel·ligents adreçades a la salut mental creix ràpidament, l'evidència sobre les aplicacions autònomes per tractar símptomes de salut mental encara no és clara. Aquesta metaanàlisi va investigar l'eficàcia de les aplicacions autònomes per a telèfons intel·ligents en salut mental. El febrer de 2018 es va dur a terme una cerca bibliogràfica exhaustiva d'assajos controlats aleatoritzats que investigaven els efectes de les aplicacions autònomes de salut mental en persones adultes amb una gravetat simptomàtica elevada, en comparació amb un grup control. Es va emprar un model d'efectes aleatoris. Quan no hi havia prou comparacions disponibles, les dades es varen presentar en una síntesi narrativa. Els resultats incloïen avaluacions de la gravetat dels símptomes del trastorn mental a què s'adreçava específicament l'aplicació. En total, es varen identificar 5945 registres i dos investigadors independents varen cribrar 165 articles en text complet per a la seva inclusió. Es varen incloure en l'anàlisi dinou assajos amb 3681 participants: depressió (k = 6), ansietat (k = 4), consum de substàncies (k = 5), pensaments i conductes autolesius (k = 4), PTSD (k = 2) i problemes de son (k = 2). Els efectes sobre la depressió (g de Hedges = 0,33; IC del 95 %: 0,10–0,57; P = 0,005; NNT = 5,43; I² = 59 %) i sobre la conducta de fumar (g = 0,39; IC del 95 %: 0,21–0,57; NNT = 4,59; P ≤ 0,001; I² = 0 %) varen ser significatius. No es varen trobar efectes agrupats significatius per a l'ansietat, la ideació suïcida, l'autolesió o el consum d'alcohol (g = −0,14 a 0,18). Les mides de l'efecte dels assajos individuals varen oscil·lar entre g = −0,05 i 0,14 per al PTSD i entre g = 0,72 i 0,84 per a l'insomni. Tot i que alguns assajos varen mostrar el potencial de les aplicacions adreçades als símptomes de salut mental, amb el nivell d'evidència actual no es pot recomanar l'ús d'aplicacions per a telèfons intel·ligents com a intervencions psicològiques autònomes.</p><p><a href="https://doi.org/10.1038/s41746-019-0188-8">DOI</a> · <a href="https://www.nature.com/articles/s41746-019-0188-8.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Weisel_2019_Standalone_apps_meta_analysis_npj_Digit_Med.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E2.jpg"/>
+    </item>
+    <item>
+      <title>T2·E2 · Guanyar a qui seu (vídeo)</title>
+      <guid isPermaLink="false">serie-T2E2-video</guid>
+      <pubDate>Fri, 02 Jan 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/26_standalone-apps-2019.mp4" length="5138038" type="video/mp4"/>
+      <itunes:duration>7:24</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E2.jpg"/>
+    </item>
+    <item>
+      <title>T2·E3 · El principi actiu</title>
+      <guid isPermaLink="false">serie-T2E3</guid>
+      <pubDate>Fri, 02 Jan 2026 02:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T2E3_24_mHealth-salut-mental-2025.mp3" length="11257401" type="audio/mpeg"/>
+      <itunes:duration>15:31</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Shahsavar et al. (2025). Revisió sistemàtica de 38 estudis sobre 35 aplicacions de salut mental basades en evidència, publicats entre 2013 i 2023. La majoria milloren els símptomes depressius, el canvi cognitiu és el mecanisme més freqüent, i l'eficàcia depèn de la mida de la mostra i del context clínic, amb predomini d'estudis pilot.</p><p><b>Referència (APA 7):</b> Shahsavar, Y., &amp; Choudhury, A. (2025). Effectiveness of evidence based mental health apps on user health outcome: A systematic literature review. <i>PLOS ONE</i>, <i>20</i>(3), Article e0319983. https://doi.org/10.1371/journal.pone.0319983</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>La recerca mostra que més del 70 % de les persones que arreu del món necessiten serveis de salut mental no tenen accés a una atenció adequada. Les tecnologies de salut mòbil (mHealth), com ara les aplicacions per a telèfons, poden ser una solució potencial a aquest problema, ja que permeten un abast més ampli i més assequible i, per tant, fan front al problema de l'accés limitat a l'atenció. Aquest estudi avalua l'efectivitat de les aplicacions de salut basades en l'evidència sobre els resultats de salut mental dels usuaris, en particular la depressió, l'ansietat i les conductes suïcides. Es va dur a terme una cerca bibliogràfica exhaustiva a les bases de dades PubMed, Web of Science i IEEE. En total, es varen identificar 6894 estudis i se'n varen seleccionar 38 per a la revisió; trenta dels 38 estudis empraven dissenys d'assaig controlat aleatoritzat. Vàrem identificar 35 aplicacions mòbils diferents. Totes les aplicacions es basaven en enfocaments de teràpia cognitivoconductual. Els enfocaments més habituals varen ser la implicació contextual i el canvi cognitiu, la qual cosa posa de manifest un èmfasi important en l'ús d'activitats d'implicació personalitzades i en l'apoderament dels usuaris perquè canviïn les seves perspectives i reformulin els pensaments negatius per millorar la seva salut mental. Si bé les aplicacions de salut mental tenen, en general, un impacte positiu en els resultats de salut mental, els resultats també posen de manifest una variabilitat important en la seva efectivitat. Els estudis futurs haurien de prioritzar l'efectivitat a llarg termini, un abast més ampli per garantir que s'adapten a una gamma diversa de persones i l'ús de metodologies d'avaluació objectives.</p><p><a href="https://doi.org/10.1371/journal.pone.0319983">DOI</a> · <a href="https://doi.org/10.1371/journal.pone.0319983">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Shahsavar_2025_Evidence_based_mental_health_apps_PLOS_ONE.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E3.jpg"/>
+    </item>
+    <item>
+      <title>T2·E3 · El principi actiu (vídeo)</title>
+      <guid isPermaLink="false">serie-T2E3-video</guid>
+      <pubDate>Fri, 02 Jan 2026 03:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/24_mHealth-salut-mental-2025.mp4" length="4888063" type="video/mp4"/>
+      <itunes:duration>6:54</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E3.jpg"/>
+    </item>
+    <item>
+      <title>T2·E4 · Un pont amb barana</title>
+      <guid isPermaLink="false">serie-T2E4</guid>
+      <pubDate>Fri, 02 Jan 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T2E4_02_APPS-salut-mental-2025.mp3" length="1883170" type="audio/mpeg"/>
+      <itunes:duration>2:29</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Almuqrin et al. (2025). Revisió sistemàtica de 31 assajos amb 3.660 participants sobre aplicacions de telèfon intel·ligent per a trastorns mentals, amb recomanacions per a la translació clínica. Les aplicacions redueixen la depressió i l'ansietat, però l'adherència cau i l'acceptabilitat només es manté alta amb suport clínic.</p><p><b>Referència (APA 7):</b> Almuqrin, A., Hammoud, R., Terbagou, I., Tognin, S., &amp; Mechelli, A. (2025). Smartphone apps for mental health: Systematic review of the literature and five recommendations for clinical translation. <i>BMJ Open</i>, <i>15</i>(2), Article e093932. https://doi.org/10.1136/bmjopen-2024-093932</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Objectius: Proporcionar un accés adequat als serveis de salut mental és un repte global. Les aplicacions per a telèfons intel·ligents ofereixen una solució potencialment cost-efectiva, disponible i accessible per monitorar, donar suport i tractar els problemes de salut mental. Aquesta revisió sistemàtica descriu i avalua l'ús d'aplicacions per a telèfons intel·ligents en un ampli ventall de trastorns mentals pel que fa a l'efectivitat clínica, la viabilitat i l'acceptabilitat.<br/>Disseny: Es tracta d'una revisió sistemàtica d'estudis que examinen aplicacions per a telèfons intel·ligents de tractament, d'automonitoratge i multipropòsit per a trastorns mentals.<br/>Fonts de dades: Els estudis es varen identificar mitjançant una cerca exhaustiva a les bases de dades Ovid i PubMed. Es varen incloure els articles publicats fins al 14 de gener de 2024 d'acord amb criteris predefinits.<br/>Criteris d'elegibilitat: Es varen incloure assajos controlats aleatoritzats que comparaven aplicacions de salut mental (d'un sol propòsit o multipropòsit) amb el tractament habitual o amb l'absència de tractament en poblacions clíniques amb trastorns mentals. Es varen excloure els estudis que se centraven en intervencions basades en el web, que combinaven les aplicacions amb tractaments diferents del TAU o que s'adreçaven a aplicacions de salut física.<br/>Extracció i síntesi de dades: Dos revisors independents varen cribrar i seleccionar els estudis, i un tercer revisor va resoldre les discrepàncies. Les dades extretes incloïen detalls de l'estudi, característiques dels participants, informació sobre l'aplicació i mesures de resultat relacionades amb l'efectivitat, la viabilitat i l'acceptabilitat. Es va dur a terme una avaluació del risc de biaix per a cada estudi.<br/>Resultats: Dels 4153 articles no duplicats cribrats, 31 estudis varen complir els criteris d'elegibilitat en text complet. Aquests incloïen 6 estudis sobre aplicacions de tractament, 4 sobre aplicacions d'automonitoratge i 21 sobre aplicacions multipropòsit per a un ventall de trastorns mentals. Quinze es varen identificar amb un nivell de preocupació entre moderat i alt en l'avaluació del risc de biaix. Si bé les aplicacions per a telèfons intel·ligents varen ser generalment efectives i acceptables, la seva viabilitat semblava disminuir amb el temps.<br/>Conclusions: Les aplicacions per a telèfons intel·ligents són eines prometedores per a l'atenció en salut mental, ja que demostren efectivitat i acceptabilitat. No obstant això, reptes com la disminució de la viabilitat amb el temps, els possibles biaixos i la infrarepresentació de determinats grups demogràfics requereixen més recerca. Aquesta revisió proposa cinc recomanacions per millorar la translació clínica en estudis futurs.</p><p><a href="https://doi.org/10.1136/bmjopen-2024-093932">DOI</a> · <a href="https://bmjopen.bmj.com/content/bmjopen/15/2/e093932.full.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Inscripci%C3%B3%20doctorat/Referencies_citades/Almuqrin_2025_Smartphone_apps_mental_health_BMJ_Open.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E4.jpg"/>
+    </item>
+    <item>
+      <title>T2·E5 · Pluja fina</title>
+      <guid isPermaLink="false">serie-T2E5</guid>
+      <pubDate>Fri, 02 Jan 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T2E5_06_prevencio-ansietat-digital-2025.mp3" length="12604789" type="audio/mpeg"/>
+      <itunes:duration>17:23</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>García-Huércano et al. (2025), Psychological Medicine. Revisió sistemàtica i metaanàlisi de 15 assajos amb 6.093 participants sobre intervencions exclusivament digitals per prevenir l'ansietat en persones sense diagnòstic. L'efecte és petit però significatiu (SMD = -0,325), la qualitat de l'evidència és molt baixa i l'efecte és menor en adults joves.</p><p><b>Referència (APA 7):</b> García-Huércano, C., Conejo-Cerón, S., Martínez-Vispo, C., Bellón, J. Á., Rodríguez-Morejón, A., Tamayo-Morales, O., &amp; Moreno-Peral, P. (2025). Effectiveness of digital psychological and psychoeducational interventions to prevent anxiety: Systematic review and meta-analysis of randomized controlled trials. <i>Psychological Medicine</i>, <i>55</i>, Article e345. https://doi.org/10.1017/s0033291725102262</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by-nc-sa):<br/>L'elevada incidència de casos nous de trastorns d'ansietat posa de manifest la necessitat d'intervencions preventives escalables, que es poden assolir mitjançant les tecnologies de la informació i la comunicació. Fins on sabem, no s'ha fet cap metaanàlisi que avaluï intervencions preventives purament digitals per a l'ansietat en tota mena de poblacions. L'objectiu d'aquest estudi va ser avaluar l'efectivitat de les intervencions digitals per a la prevenció dels trastorns d'ansietat. Es varen fer cerques sistemàtiques en sis bases de dades electròniques (PubMed, PsycINFO, EMBASE, Web of Science, OpenGrey i CENTRAL) des del seu inici fins al 12 de desembre de 2024. Els criteris d'inclusió dels estudis varen ser: (1) assaigs controlats aleatoritzats (ACA); (2) intervencions digitals psicològiques o psicoeducatives per prevenir l'ansietat; i (3) tota mena de poblacions sense ansietat a l'inici de l'estudi. La revisió sistemàtica va incloure un total de 15 estudis (19 comparacions; 6.093 participants). Un estudi es va identificar com a valor atípic i, per tant, es va excloure de la metaanàlisi. L'anàlisi agrupada va mostrar un efecte petit a favor de les intervencions preventives en poblacions no ansioses i diverses (diferència de mitjanes estandarditzada = −0,32; interval de confiança del 95 %: −0,44 a −0,20; p &lt; 0,001). Les anàlisis de sensibilitat varen confirmar la robustesa d'aquest resultat. No vàrem trobar indicis de biaix de publicació. L'heterogeneïtat va ser alta; no obstant això, una metaregressió que incloïa una variable (país: els Països Baixos) va explicar el 100 % de la variància. Tots els ACA, llevat de dos, presentaven un risc de biaix alt, i la qualitat de l'evidència, segons el sistema GRADE (Grading of Recommendations Assessment, Development and Evaluation), va ser molt baixa. Cal desenvolupar i avaluar noves intervencions preventives digitals amb una metodologia rigorosa.</p><p><a href="https://doi.org/10.1017/s0033291725102262">DOI</a> · <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/35D5AB38C58DF8B392466FAB64A3833E/S0033291725102262a.pdf/div-class-title-effectiveness-of-digital-psychological-and-psychoeducational-interventions-to-prevent-anxiety-systematic-review-and-meta-analysis-of-randomized-controlled-trials-div.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Garcia-Huercano_2025_Digital_interventions_prevent_anxiety_meta_analysis_Psychol_Med.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E5.jpg"/>
+    </item>
+    <item>
+      <title>T2·E5 · Pluja fina (vídeo)</title>
+      <guid isPermaLink="false">serie-T2E5-video</guid>
+      <pubDate>Fri, 02 Jan 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/06_prevencio-ansietat-digital-2025.mp4" length="4816074" type="video/mp4"/>
+      <itunes:duration>6:54</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E5.jpg"/>
+    </item>
+    <item>
+      <title>T2·E6 · Cursa curta</title>
+      <guid isPermaLink="false">serie-T2E6</guid>
+      <pubDate>Fri, 02 Jan 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T2E6_21_ICBT-anxietat-2023.mp3" length="9306139" type="audio/mpeg"/>
+      <itunes:duration>12:48</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Oliveira et al. (2023). Revisió sistemàtica i metaanàlisi de 15 assajos amb 1.619 estudiants universitaris sobre teràpia cognitivoconductual per internet per a l'ansietat. L'efecte és moderat (g = -0,48), es manté en intervencions de quatre setmanes o menys, i la majoria de programes es lliuren en entorn web.</p><p><b>Referència (APA 7):</b> Oliveira, C., Pacheco, M., Borges, J., Meira, L., &amp; Santos, A. (2023). Internet-delivered cognitive behavioral therapy for anxiety among university students: A systematic review and meta-analysis. <i>Internet Interventions</i>, <i>31</i>, Article 100609. https://doi.org/10.1016/j.invent.2023.100609</p><p><a href="https://doi.org/10.1016/j.invent.2023.100609">DOI</a> · <a href="https://doi.org/10.1016/j.invent.2023.100609">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Oliveira_2023_iCBT_anxiety_university_students_Internet_Interventions.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E6.jpg"/>
+    </item>
+    <item>
+      <title>T2·E6 · Cursa curta (vídeo)</title>
+      <guid isPermaLink="false">serie-T2E6-video</guid>
+      <pubDate>Fri, 02 Jan 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/21_ICBT-anxietat-2023.mp4" length="5629790" type="video/mp4"/>
+      <itunes:duration>8:04</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T2E6.jpg"/>
+    </item>
+    <item>
+      <title>T3·Presentació · La bastida</title>
+      <guid isPermaLink="false">serie-T3E0</guid>
+      <pubDate>Fri, 02 Jan 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T3E0_presentacio.mp3" length="1037395" type="audio/mpeg"/>
+      <itunes:duration>1:18</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <description><![CDATA[<p>Episodi zero de la temporada Construir. Presenta els vuit articles que expliquen com es desenvolupa i s'implanta una intervenció digital complexa: marcs generals i específics, passes de disseny, enfocament centrat en la persona, codisseny amb joves i implantació en sistemes reals.</p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E0.jpg"/>
+    </item>
+    <item>
+      <title>T3·E1 · Obrir la caixa negra</title>
+      <guid isPermaLink="false">serie-T3E1</guid>
+      <pubDate>Fri, 02 Jan 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T3E1_31_MRC-marc-2021.mp3" length="22156134" type="audio/mpeg"/>
+      <itunes:duration>30:38</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Skivington i col·laboradors, 2021, actualitzen la guia del Medical Research Council per desenvolupar i avaluar intervencions complexes, a partir d'un taller d'experts, una consulta internacional i una anàlisi de buits de la guia de 2006. El nou marc proposa quatre perspectives de recerca, quatre fases iteratives i sis elements nuclears, amb la teoria del programa com a pedra angular.</p><p><b>Referència (APA 7):</b> Skivington, K., Matthews, L., Simpson, S. A., Craig, P., Baird, J., Blazeby, J. M., Boyd, K. A., Craig, N., French, D. P., McIntosh, E., Petticrew, M., Rycroft-Malone, J., White, M., &amp; Moore, L. (2021). A new framework for developing and evaluating complex interventions: Update of Medical Research Council guidance. <i>BMJ</i>, Article n2061. https://doi.org/10.1136/bmj.n2061</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>La guia del Medical Research Council del Regne Unit per al desenvolupament i l'avaluació d'intervencions complexes, àmpliament emprada, ha estat substituïda per un nou marc, encarregat conjuntament pel Medical Research Council i el National Institute for Health Research, que té en compte els avenços recents en teoria i mètodes i la necessitat de maximitzar l'eficiència, l'ús i l'impacte de la recerca.</p><p><a href="https://doi.org/10.1136/bmj.n2061">DOI</a> · <a href="https://www.bmj.com/content/bmj/374/bmj.n2061.full.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Skivington_2021_MRC_framework_BMJ.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E1.jpg"/>
+    </item>
+    <item>
+      <title>T3·E1 · Obrir la caixa negra (vídeo)</title>
+      <guid isPermaLink="false">serie-T3E1-video</guid>
+      <pubDate>Fri, 02 Jan 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/31_MRC-marc-2021.mp4" length="5131541" type="video/mp4"/>
+      <itunes:duration>7:12</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E1.jpg"/>
+    </item>
+    <item>
+      <title>T3·E2 · Corda de tres fils</title>
+      <guid isPermaLink="false">serie-T3E2</guid>
+      <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T3E2_30_CeHRes-roadmap-2011.mp3" length="1986342" type="audio/mpeg"/>
+      <itunes:duration>2:38</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Van Gemert-Pijnen i col·laboradors, 2011, revisen marcs previs per desenvolupar tecnologies de salut digital i constaten una relació poc clara entre estratègia i mètode i una dependència excessiva de l'avaluació final. Proposen el full de ruta CeHRes, que integra desenvolupament participatiu, disseny persuasiu i models de negoci amb avaluació formativa contínua.</p><p><b>Referència (APA 7):</b> van Gemert-Pijnen, J. E. W. C., Nijland, N., van Limburg, M., Ossebaard, H. C., Kelders, S. M., Eysenbach, G., &amp; Seydel, E. R. (2011). A holistic framework to improve the uptake and impact of eHealth technologies. <i>Journal of Medical Internet Research</i>, <i>13</i>(4), Article e111. https://doi.org/10.2196/jmir.1672</p><p><a href="https://doi.org/10.2196/jmir.1672">DOI</a> · <a href="https://www.jmir.org/2011/4/e111/PDF">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/vanGemertPijnen_2011_CeHRes_holistic_framework_JMIR.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E2.jpg"/>
+    </item>
+    <item>
+      <title>T3·E3 · Gaudir del camí</title>
+      <guid isPermaLink="false">serie-T3E3</guid>
+      <pubDate>Fri, 02 Jan 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T3E3_19_IDEAS-framework-2016.mp3" length="1853430" type="audio/mpeg"/>
+      <itunes:duration>2:28</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Mummah i col·laboradors, 2016, presenten el marc IDEAS, que combina ciència del comportament i disseny centrat en l'usuari per crear intervencions digitals en salut, i el posen a prova construint una aplicació mòbil real. El resultat és un procés de quatre etapes i deu fases iteratives en què motivar l'usuari durant el procés és el pilar de l'èxit.</p><p><b>Referència (APA 7):</b> Mummah, S. A., Robinson, T. N., King, A. C., Gardner, C. D., &amp; Sutton, S. (2016). IDEAS (Integrate, Design, Assess, and Share): A framework and toolkit of strategies for the development of more effective digital interventions to change health behavior. <i>Journal of Medical Internet Research</i>, <i>18</i>(12), Article e317. https://doi.org/10.2196/jmir.5927</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Desenvolupar intervencions digitals efectives per canviar la conducta de salut ha estat un objectiu difícil tant per als acadèmics com per als agents de la indústria. Cal orientar el disseny de les intervencions amb la millor combinació d'enfocaments disponibles si es volen desenvolupar tecnologies efectives. La teoria conductual, el pensament de disseny (design thinking), el disseny centrat en l'usuari, l'avaluació rigorosa i la difusió tenen, cadascun, mèrits àmpliament reconeguts en la seva aplicació a les intervencions de salut digital. Aquest article presenta IDEAS, un procés pas a pas per integrar aquests enfocaments a fi d'orientar el desenvolupament i l'avaluació d'intervencions digitals més efectives. IDEAS consta de 10 fases (empatitzar, especificar, fonamentar, idear, prototipar, recollir, construir, pilotar, avaluar i compartir), agrupades en 4 etapes generals: integrar, dissenyar, avaluar i compartir (Integrate, Design, Assess, and Share, IDEAS). Es descriu cadascuna d'aquestes fases i es proporciona un resum d'estratègies conductuals basades en la teoria que poden orientar el disseny de la intervenció. El marc IDEAS pretén oferir un grau de detall suficient sense ser excessivament prescriptiu, de manera que pugui ser útil i fàcilment aplicable tant per part d'investigadors com de socis de la indústria en el desenvolupament de les seves pròpies intervencions de canvi de conducta en mHealth, eHealth i altres formes de salut digital.</p><p><a href="https://doi.org/10.2196/jmir.5927">DOI</a> · <a href="https://doi.org/10.2196/jmir.5927">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Mummah_2016_IDEAS_framework_JMIR.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E3.jpg"/>
+    </item>
+    <item>
+      <title>T3·E4 · Les ulleres de l&#x27;usuari</title>
+      <guid isPermaLink="false">serie-T3E4</guid>
+      <pubDate>Fri, 02 Jan 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T3E4_29_PBA-marc-2015.mp3" length="1745547" type="audio/mpeg"/>
+      <itunes:duration>2:18</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Yardley i col·laboradors, 2015, presenten l'enfocament basat en la persona per desenvolupar intervencions digitals de canvi de comportament, que incorpora la perspectiva dels usuaris mitjançant recerca qualitativa iterativa. Proposen principis rectors orientats a l'autonomia i adverteixen que aquest enfocament no és el mateix que el codisseny.</p><p><b>Referència (APA 7):</b> Yardley, L., Morrison, L., Bradbury, K., &amp; Muller, I. (2015). The person-based approach to intervention development: Application to digital health-related behavior change interventions. <i>Journal of Medical Internet Research</i>, <i>17</i>(1), Article e30. https://doi.org/10.2196/jmir.4055</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Aquest article descriu un enfocament que hem anat desenvolupant per elaborar intervencions digitals reeixides que ajudin les persones a gestionar la seva salut o la seva malaltia. L'anomenam enfocament «centrat en la persona» (person-based) per destacar que se centra a comprendre i tenir en compte les perspectives de les persones que empraran la intervenció. Si bé tots els dissenyadors d'intervencions procuren obtenir i incorporar de maneres diverses les opinions dels usuaris destinataris, l'enfocament centrat en la persona ofereix una manera distintiva i sistemàtica d'abordar l'experiència de l'usuari, en particular respecte de les tècniques de canvi de conducta previstes, i pot potenciar l'ús d'enfocaments basats en la teoria i en l'evidència en el desenvolupament d'intervencions. L'enfocament centrat en la persona té dos elements clau. El primer és un procés de desenvolupament que inclou recerca qualitativa amb una àmplia varietat de persones de les poblacions d'usuaris destinatàries, duta a terme en cada etapa del desenvolupament de la intervenció, des de la planificació fins a les proves de viabilitat i la implementació. Aquest procés va més enllà de valorar l'acceptabilitat, la usabilitat i la satisfacció, i permet als dissenyadors de la intervenció construir una comprensió profunda del context psicosocial dels usuaris i de les seves opinions sobre els elements conductuals de la intervenció. Les idees que en sorgeixen es poden emprar per anticipar i interpretar l'ús i els resultats de la intervenció i, sobretot, per modificar la intervenció a fi de fer-la més persuasiva, viable i rellevant per als usuaris. El segon element de l'enfocament centrat en la persona és identificar «principis orientadors» que puguin inspirar i orientar el desenvolupament de la intervenció, posant en relleu les maneres distintives en què la intervenció abordarà qüestions conductuals clau específiques del context. Aquest article descriu com aplicar l'enfocament centrat en la persona i n'il·lustra el procés amb exemples dels coneixements obtinguts de la nostra experiència en la realització de més d'un miler d'entrevistes amb usuaris, mentre desenvolupàvem intervencions de salut pública i de gestió de la malaltia que s'han demostrat efectives en assajos amb desenes de milers d'usuaris.</p><p><a href="https://doi.org/10.2196/jmir.4055">DOI</a> · <a href="https://www.jmir.org/2015/1/e30/PDF">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Yardley_2015_Person_based_approach_JMIR.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E4.jpg"/>
+    </item>
+    <item>
+      <title>T3·E5 · Cases sense plànol</title>
+      <guid isPermaLink="false">serie-T3E5</guid>
+      <pubDate>Fri, 02 Jan 2026 15:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T3E5_11_PBA-scoping-review-2025.mp3" length="1984024" type="audio/mpeg"/>
+      <itunes:duration>2:39</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Holt i col·laboradors, 2025, fan una revisió exploratòria de 239 articles publicats entre 2015 i 2023 que apliquen l'enfocament basat en la persona. La majoria l'empren en les fases inicials de planificació amb mètodes qualitatius, però 111 articles no descriuen cap teoria de canvi de comportament.</p><p><b>Referència (APA 7):</b> Holt, L., Denford, S., Bowers, H., Kuberka, P., Muller, I., Amlôt, R., &amp; Yardley, L. (2025). The person-based approach to intervention development: A scoping review of methods and applications. <i>Digital Health</i>, <i>11</i>, Article 20552076241305934. https://doi.org/10.1177/20552076241305934</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents: L'enfocament centrat en la persona (person-based approach, PBA) s'ha consolidat durant la darrera dècada com una metodologia destacada per orientar el desenvolupament d'intervencions digitals i híbrides de canvi de conducta en salut, i hi ha una necessitat notable de comprendre'n la utilització.<br/>Objectiu: Aquest estudi té com a objectiu descriure quins elements del PBA s'han emprat en la recerca sobre desenvolupament d'intervencions, en quines poblacions i com s'ha comunicat.<br/>Mètodes: Es va dur a terme a Scopus una cerca d'articles sobre desenvolupament d'intervencions publicats entre 2015 i 2023 mitjançant cerques de citacions prospectives, a partir de dos articles llavor. Els resultats es presenten mitjançant recomptes de freqüències, i les dades qualitatives es varen resumir mitjançant una anàlisi de contingut.<br/>Resultats: La revisió comprèn 239 articles. El PBA s'ha aplicat sovint en l'etapa inicial de desenvolupament d'intervencions digitals per a poblacions adultes, amb prioritat per a l'ús de mètodes qualitatius. S'ha emprat arreu del món per desenvolupar, adaptar, optimitzar i avaluar intervencions digitals, híbrides i no digitals en una gran varietat de contextos, entre els quals l'atenció primària i secundària, i els àmbits educatiu, comunitari i de salut pública. Els investigadors el valoren com un mètode provat per identificar les necessitats i les preferències dels usuaris amb la finalitat de crear continguts persuasius.<br/>Conclusió: El PBA es vincula amb més freqüència a la recerca duta a terme per comprendre les poblacions destinatàries i dissenyar de manera iterativa els continguts en les fases inicials de desenvolupament. El PBA proporciona orientacions per combinar la recerca basada en l'evidència, en la teoria i en la persona, però aquests tres elements no sempre són evidents en la literatura. Una formació centrada en aquests elements, juntament amb estudis exemplars i l'ús de guies de comunicació, podria fer més visible aquesta feina integradora en articles futurs.</p><p><a href="https://doi.org/10.1177/20552076241305934">DOI</a> · <a href="https://doi.org/10.1177/20552076241305934">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Holt_2025_Person_based_approach_scoping_review_Digital_Health.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E5.jpg"/>
+    </item>
+    <item>
+      <title>T3·E6 · Cuinar sense tastar</title>
+      <guid isPermaLink="false">serie-T3E6</guid>
+      <pubDate>Fri, 02 Jan 2026 16:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T3E6_03_codesign-digital-2020.mp3" length="1933175" type="audio/mpeg"/>
+      <itunes:duration>2:33</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Bevan Jones i col·laboradors, 2020, revisen 25 articles sobre 30 tecnologies de salut mental digital codissenyades amb infants i joves. La majoria es basen en la teràpia cognitivoconductual i combinen mètodes qualitatius com grups focals i tallers, però només un 19 per cent avalua formalment el procés de codisseny.</p><p><b>Referència (APA 7):</b> Bevan Jones, R., Stallard, P., Agha, S. S., Rice, S., Werner-Seidler, A., Stasiak, K., Kahn, J., Simpson, S. A., Alvarez-Jimenez, M., Rice, F., Evans, R., &amp; Merry, S. (2020). Practitioner review: Co-design of digital mental health technologies with children and young people. <i>Journal of Child Psychology and Psychiatry</i>, <i>61</i>(8), 928–940. https://doi.org/10.1111/jcpp.13258</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents: Hi ha un interès creixent per les tecnologies digitals per ajudar a millorar la salut mental d'infants i joves, i l'evidència sobre l'efectivitat d'aquests enfocaments augmenta. No obstant això, hi ha preocupació pel que fa als nivells d'implicació, d'adopció i d'adherència dels usuaris. Les orientacions clau sobre intervencions de salut digital subratllen la importància de la participació primerenca dels usuaris en el desenvolupament, l'avaluació i la implementació de les tecnologies per contribuir a garantir que siguin atractives, viables, acceptables i potencialment efectives. El codisseny és un procés de participació activa de les parts interessades que requereix un canvi respecte dels enfocaments tradicionals de desenvolupament d'intervencions. Tanmateix, hi ha una manca de literatura que orienti el codisseny de tecnologies digitals per afavorir la salut mental d'infants i adolescents.<br/>Mètodes: Vàrem revisar la literatura i la pràctica sobre el codisseny de tecnologies digitals de salut mental amb infants i joves. Vàrem cercar a les bases de dades Medline, PsycInfo i Web of Science, en guies, revisions i llistes de referències; vàrem contactar amb autors clau per obtenir estudis rellevants, i vàrem extreure temes clau sobre aspectes del codisseny rellevants per a la pràctica. Ho vàrem complementar amb estudis de cas i mètodes descrits per investigadors que treballen en aquest camp.<br/>Resultats: Vàrem identificar 25 articles originals i 30 tecnologies digitals de salut mental que s'havien dissenyat o desenvolupat amb infants i joves. Els temes identificats varen ser els següents: principis del codisseny (incloent-hi les possibles parts interessades i les etapes de participació), mètodes per implicar i fer participar el conjunt d'usuaris, codisseny del prototip i reptes del codisseny.<br/>Conclusions: El codisseny implica totes les parts interessades rellevants al llarg de tot el cicle de vida i de recerca del programa. Aquesta revisió contribueix a orientar els professionals i els investigadors interessats en el desenvolupament de tecnologies de salut digital per a infants i joves. La feina futura en aquest camp haurà de tenir en compte l'evolució de la tecnologia, els mètodes per relacionar-se amb la diversitat del grup d'usuaris i l'avaluació del procés de codisseny i del seu impacte en la tecnologia.</p><p><a href="https://doi.org/10.1111/jcpp.13258">DOI</a> · <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jcpp.13258">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/BevanJones_2020_Codesign_digital_mental_health_young_people_JCPP.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E6.jpg"/>
+    </item>
+    <item>
+      <title>T3·E6 · Cuinar sense tastar (vídeo)</title>
+      <guid isPermaLink="false">serie-T3E6-video</guid>
+      <pubDate>Fri, 02 Jan 2026 17:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/03_codesign-digital-2020.mp4" length="6746198" type="video/mp4"/>
+      <itunes:duration>9:36</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E6.jpg"/>
+    </item>
+    <item>
+      <title>T3·E7 · Veu sense vot</title>
+      <guid isPermaLink="false">serie-T3E7</guid>
+      <pubDate>Fri, 02 Jan 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T3E7_18_codesign-joves-2025.mp3" length="8353217" type="audio/mpeg"/>
+      <itunes:duration>11:29</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>McGovern i col·laboradors, 2025, fan una revisió sistemàtica amb síntesi narrativa de 30 estudis que varen emprar el codisseny amb joves de fins a 25 anys per desenvolupar suport digital en salut mental. Només un 37 per cent empra el terme de manera consistent, només dos estudis expliquen com varen gestionar el poder i cap no avalua l'eficàcia amb un assaig controlat aleatoritzat.</p><p><b>Referència (APA 7):</b> McGovern, Ó., Glennon, S., Walsh, I., Gallagher, P., &amp; McCashin, D. (2025). The use of co-design with young people for digital mental health support development: A systematic review. <i>Internet Interventions</i>, <i>41</i>, Article 100835. https://doi.org/10.1016/j.invent.2025.100835</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Els mètodes de codisseny ofereixen l'oportunitat d'implicar de manera significativa les persones joves en la recerca per garantir que els suports dissenyats siguin utilitzables i responguin a les seves necessitats. No obstant això, no és clar com s'aplica actualment el codisseny amb persones joves en l'àmbit de la salut mental digital. Aquesta revisió va tenir com a objectiu sintetitzar de manera crítica l'ús del codisseny amb persones joves per dissenyar o modificar intervencions i suports digitals de salut mental. Es varen consultar sis bases de dades per cercar articles empírics publicats en anglès a partir de 2012. Es varen incloure els articles que informaven sobre persones joves de fins a 25 anys que havien participat en el codisseny d'una intervenció o d'un suport de salut mental en línia. Es va completar una síntesi narrativa de 30 articles que complien aquests criteris específics. Els resultats varen posar de manifest una terminologia intercanviable i inconsistent emprada per descriure el codisseny i els enfocaments relacionats en els diferents articles. El grau d'inclusió de les persones joves variava i hi havia una manca de consideració de les dinàmiques de poder. La recerca futura hauria de procurar establir una definició i una terminologia clares i coherents del codisseny, juntament amb un marc de referència rigorós per a la comunicació del codisseny, per tal de garantir que el procés es dugui a terme d'acord amb la seva finalitat original. Es discuteixen les implicacions per a la recerca i la pràctica en l'àmbit del codisseny amb joves.</p><p><a href="https://doi.org/10.1016/j.invent.2025.100835">DOI</a> · <a href="https://doi.org/10.1016/j.invent.2025.100835">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/McGovern_2025_Codesign_young_people_review_Internet_Interventions.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E7.jpg"/>
+    </item>
+    <item>
+      <title>T3·E7 · Veu sense vot (vídeo)</title>
+      <guid isPermaLink="false">serie-T3E7-video</guid>
+      <pubDate>Fri, 02 Jan 2026 19:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/18_codesign-joves-2025.mp4" length="5661431" type="video/mp4"/>
+      <itunes:duration>7:56</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E7.jpg"/>
+    </item>
+    <item>
+      <title>T3·E8 · El campió de casa</title>
+      <guid isPermaLink="false">serie-T3E8</guid>
+      <pubDate>Fri, 02 Jan 2026 20:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T3E8_17_eines-salut-digital-2022.mp3" length="1941537" type="audio/mpeg"/>
+      <itunes:duration>2:34</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Marwaha i col·laboradors, 2022, sintetitzen per consens d'experts l'experiència de grans xarxes sanitàries nord-americanes en la implantació d'eines de salut digital. Proposen nou dimensions organitzatives que cal avaluar abans d'implantar i subratllen el valor clínic, la governança de dades i la necessitat d'un campió intern.</p><p><b>Referència (APA 7):</b> Marwaha, J. S., Landman, A. B., Brat, G. A., Dunn, T., &amp; Gordon, W. J. (2022). Deploying digital health tools within large, complex health systems: Key considerations for adoption and implementation. <i>npj Digital Medicine</i>, <i>5</i>(1), Article 13. https://doi.org/10.1038/s41746-022-00557-1</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>En els darrers anys, el nombre d'eines de salut digital amb potencial per millorar significativament la prestació de serveis d'atenció sanitària ha crescut de manera extraordinària. No obstant això, l'ús d'aquestes eines en sistemes de salut grans i complexos continua essent comparativament limitat. L'adopció i la implementació d'eines de salut digital en l'àmbit de tota l'organització és un repte; hi ha poques estratègies que ajudin les eines a salvar la distància entre la validació clínica i la integració en els fluxos de treball d'un gran sistema de salut. Molts dels marcs proposats anteriorment per a la implementació de la salut digital són difícils de posar en pràctica en aquestes organitzacions dinàmiques. En aquest article, plantejam nou dimensions segons les quals els sistemes de salut haurien d'examinar les eines de salut digital validades clínicament abans d'adoptar-les, i proposam estratègies per seleccionar eines de salut digital i planificar-ne la implementació en aquest context. Si avaluen les eines potencials segons aquestes dimensions, els sistemes de salut poden determinar quines solucions de salut digital existents mereixen ser adoptades, assegurar-se que disposen de recursos suficients per al desplegament i l'ús a llarg termini, i elaborar un pla estratègic d'implementació.</p><p><a href="https://doi.org/10.1038/s41746-022-00557-1">DOI</a> · <a href="https://www.nature.com/articles/s41746-022-00557-1.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Marwaha_2022_Deploying_digital_health_tools_npj_Digit_Med.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T3E8.jpg"/>
+    </item>
+    <item>
+      <title>T4·Presentació · L&#x27;orella atenta</title>
+      <guid isPermaLink="false">serie-T4E0</guid>
+      <pubDate>Fri, 02 Jan 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T4E0_presentacio.mp3" length="995808" type="audio/mpeg"/>
+      <itunes:duration>1:15</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <description><![CDATA[<p>Episodi zero de la temporada Escoltar. Presenta els nou articles metodològics que sostenen el codisseny de la tesi: com fer, quantificar i informar un estudi Delfi, com fer grups focals i decidir-ne la mida, i com informar de la recerca qualitativa.</p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E0.jpg"/>
+    </item>
+    <item>
+      <title>T4·E1 · Afinar abans de tocar</title>
+      <guid isPermaLink="false">serie-T4E1</guid>
+      <pubDate>Fri, 02 Jan 2026 22:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T4E1_12_CREDES-2017.mp3" length="8003711" type="audio/mpeg"/>
+      <itunes:duration>10:59</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Jünger i col·laboradors, 2017, fan una revisió sistemàtica metodològica de 30 estudis Delfi en cures pal·liatives i proposen l'estàndard CREDES per fer-los i informar-ne. La qualitat és molt variable: només 5 estudis varen pilotar els instruments i només 6 aporten un diagrama de flux.</p><p><b>Referència (APA 7):</b> Jünger, S., Payne, S. A., Brine, J., Radbruch, L., &amp; Brearley, S. G. (2017). Guidance on Conducting and REporting DElphi Studies (CREDES) in palliative care: Recommendations based on a methodological systematic review. <i>Palliative Medicine</i>, <i>31</i>(8), 684–706. https://doi.org/10.1177/0269216317690685</p><p><a href="https://doi.org/10.1177/0269216317690685">DOI</a> · <a href="https://eprints.lancs.ac.uk/id/eprint/84723/1/Submission_PM_06_12_2016.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Junger_2017_CREDES_Palliat_Med.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E1.jpg"/>
+    </item>
+    <item>
+      <title>T4·E1 · Afinar abans de tocar (vídeo)</title>
+      <guid isPermaLink="false">serie-T4E1-video</guid>
+      <pubDate>Fri, 02 Jan 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/12_CREDES-2017.mp4" length="5437830" type="video/mp4"/>
+      <itunes:duration>7:42</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E1.jpg"/>
+    </item>
+    <item>
+      <title>T4·E2 · La moneda dels jutges</title>
+      <guid isPermaLink="false">serie-T4E2</guid>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T4E2_22_CVI-validitat-2007.mp3" length="1824787" type="audio/mpeg"/>
+      <itunes:duration>2:25</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Polit i col·laboradors, 2007, analitzen l'índex de validesa de contingut i el comparen amb altres mesures d'acord entre jutges, amb una correcció per l'acord atribuïble a l'atzar. Recomanen un índex de 0,78 o més per ítem i una mitjana de 0,90 o més per a l'escala.</p><p><b>Referència (APA 7):</b> Polit, D. F., Beck, C. T., &amp; Owen, S. V. (2007). Is the CVI an acceptable indicator of content validity? Appraisal and recommendations. <i>Research in Nursing &amp; Health</i>, <i>30</i>(4), 459–467. https://doi.org/10.1002/nur.20199</p><p><a href="https://doi.org/10.1002/nur.20199">DOI</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Polit_2007_CVI_content_validity_Res_Nurs_Health.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E2.jpg"/>
+    </item>
+    <item>
+      <title>T4·E3 · L&#x27;urna de vidre</title>
+      <guid isPermaLink="false">serie-T4E3</guid>
+      <pubDate>Sat, 03 Jan 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T4E3_07_ACCORD-2024.mp3" length="15257190" type="audio/mpeg"/>
+      <itunes:duration>21:04</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Gattrell i col·laboradors, 2024, desenvolupen la guia ACCORD per informar de mètodes de consens en biomedicina mitjançant una revisió sistemàtica i un Delfi modificat de tres rondes amb un panell internacional. Dels 56 ítems inicials en resulten 35, amb un llindar d'acord del 80 per cent mantingut en dues rondes consecutives.</p><p><b>Referència (APA 7):</b> Gattrell, W. T., Logullo, P., van Zuuren, E. J., Price, A., Hughes, E. L., Blazey, P., Winchester, C. C., Tovey, D., Goldman, K., Hungin, A. P., &amp; Harrison, N. (2024). ACCORD (ACcurate COnsensus Reporting Document): A reporting guideline for consensus methods in biomedicine developed via a modified Delphi. <i>PLOS Medicine</i>, <i>21</i>(1), Article e1004326. https://doi.org/10.1371/journal.pmed.1004326</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents: En la recerca biomèdica, sovint és desitjable cercar el consens entre persones amb perspectives i experiències diferents. Això és important quan l'evidència és emergent, inconsistent, limitada o inexistent. Fins i tot quan l'evidència de la recerca és abundant, les recomanacions clíniques, les decisions polítiques i l'establiment de prioritats poden requerir igualment l'acord de diverses parts, de vegades ideològicament oposades. Malgrat la seva rellevància i influència en decisions clau, els mètodes de consens sovint es comuniquen de manera deficient. El nostre objectiu va ser desenvolupar la primera guia de comunicació dedicada i aplicable a tots els mètodes de consens emprats en la recerca biomèdica, independentment de l'objectiu del procés de consens, anomenada ACCORD (ACcurate COnsensus Reporting Document).<br/>Mètodes i resultats: Vàrem seguir la metodologia recomanada per la xarxa EQUATOR per al desenvolupament de guies de comunicació: a una revisió sistemàtica la varen seguir un procés Delphi i diverses reunions per tancar la llista de verificació ACCORD. La llista de verificació preliminar es va elaborar a partir de la revisió sistemàtica de la literatura existent sobre la qualitat de la comunicació dels mètodes de consens i dels suggeriments del Comitè de Direcció. Es va reclutar un grup Delphi (n = 72) amb representació de 6 continents i un ampli ventall d'experiència, que incloïa perspectives clíniques, de recerca, de polítiques i de pacients. Les 3 rondes del procés Delphi les varen completar 58, 54 i 51 panelistes, respectivament. La llista de verificació preliminar de 56 ítems es va refinar fins a una llista definitiva de 35 ítems relatius al títol de l'article (n = 1), la introducció (n = 3), els mètodes (n = 21), els resultats (n = 5), la discussió (n = 2) i altra informació (n = 3).<br/>Conclusions: La llista de verificació ACCORD és la primera guia de comunicació aplicable a tots els estudis basats en el consens. Donarà suport als autors a l'hora de redactar manuscrits precisos i detallats, de manera que millorarà l'exhaustivitat i la transparència de la comunicació i proporcionarà als lectors claredat sobre els mètodes emprats per arribar a l'acord. A més, la llista de verificació farà evident per als lectors el rigor dels mètodes de consens emprats per orientar les recomanacions. Comunicar els estudis de consens amb més claredat i transparència pot augmentar la confiança en les recomanacions formulades pels grups de consens.</p><p><a href="https://doi.org/10.1371/journal.pmed.1004326">DOI</a> · <a href="https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1004326&amp;type=printable">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Gattrell_2024_ACCORD_reporting_guideline_PLoS_Med.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E3.jpg"/>
+    </item>
+    <item>
+      <title>T4·E3 · L&#x27;urna de vidre (vídeo)</title>
+      <guid isPermaLink="false">serie-T4E3-video</guid>
+      <pubDate>Sat, 03 Jan 2026 02:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/07_ACCORD-2024.mp4" length="4783759" type="video/mp4"/>
+      <itunes:duration>6:53</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E3.jpg"/>
+    </item>
+    <item>
+      <title>T4·E4 · Les guspires del grup</title>
+      <guid isPermaLink="false">serie-T4E4</guid>
+      <pubDate>Sat, 03 Jan 2026 03:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T4E4_14_focus-groups-1995.mp3" length="1647529" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Kitzinger, 1995, presenta els grups focals com una tècnica que aprofita la interacció entre participants per generar dades riques. Recomana grups petits, atenció a les jerarquies i a les veus minoritàries, i adverteix de la pressió de grup i de la dificultat de garantir la confidencialitat.</p><p><b>Referència (APA 7):</b> Kitzinger, J. (1995). Qualitative research: Introducing focus groups. <i>BMJ</i>, <i>311</i>(7000), 299–302. https://doi.org/10.1136/bmj.311.7000.299</p><p><a href="https://doi.org/10.1136/bmj.311.7000.299">DOI</a> · <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/2550365">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Kitzinger_1995_Introducing_focus_groups_BMJ.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E4.jpg"/>
+    </item>
+    <item>
+      <title>T4·E5 · La saturació emmascarada</title>
+      <guid isPermaLink="false">serie-T4E5</guid>
+      <pubDate>Sat, 03 Jan 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T4E5_05_sample-size-focus-groups-2011.mp3" length="1873334" type="audio/mpeg"/>
+      <itunes:duration>2:29</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Carlsen i Glenton, 2011, analitzen 220 articles de salut amb grups focals publicats en accés obert per veure com justifiquen la mida de la mostra. El 83 per cent no justifica el nombre de grups, i molts dels que invoquen la saturació no en documenten el procés.</p><p><b>Referència (APA 7):</b> Carlsen, B., &amp; Glenton, C. (2011). What about N? A methodological study of sample-size reporting in focus group studies. <i>BMC Medical Research Methodology</i>, <i>11</i>(1), Article 26. https://doi.org/10.1186/1471-2288-11-26</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents: Els estudis amb grups focals es publiquen cada vegada més en revistes relacionades amb la salut, però sabem poc de com els investigadors empren aquest mètode, en particular de com determinen el nombre de grups focals que duen a terme. La literatura metodològica aconsella habitualment als investigadors que segueixin els principis de la saturació de dades, tot i que manquen consells pràctics sobre com fer-ho. Els nostres objectius varen ser, en primer lloc, descriure la situació actual de la mida mostral en els estudis amb grups focals publicats en revistes de salut. En segon lloc, valorar si els investigadors expliquen el nombre de grups focals que duen a terme, i de quina manera ho fan.<br/>Mètodes: Vàrem cercar a PubMed estudis que haguessin emprat grups focals i que s'haguessin publicat en revistes d'accés obert durant l'any 2008, i vàrem extreure dades sobre el nombre de grups focals i sobre qualsevol explicació que els autors donassin d'aquest nombre. També vàrem fer una valoració qualitativa dels articles pel que fa a com s'explicava i es discutia el nombre de grups.<br/>Resultats: Vàrem identificar 220 articles publicats en 117 revistes. En aquests articles era freqüent que la mida mostral no s'informàs de manera suficient. El nombre de grups focals duts a terme variava molt (mitjana 8,4; mediana 5; rang d'1 a 96). Trenta-set estudis (17 %) varen intentar explicar el nombre de grups. Sis estudis feien referència a regles empíriques de la literatura, tres afirmaven que no havien pogut organitzar més grups per raons pràctiques, mentre que 28 estudis afirmaven que havien assolit un punt de saturació. Entre els que afirmaven haver assolit un punt de saturació, diversos semblaven no haver seguit els principis de la teoria fonamentada, segons els quals la recollida i l'anàlisi de dades constitueixen un procés iteratiu fins que s'assoleix la saturació. Els estudis amb un nombre elevat de grups focals no oferien explicacions del nombre de grups. L'excés de dades com a debilitat de l'estudi no va ser una qüestió discutida en cap dels articles revisats.<br/>Conclusions: A partir d'aquests resultats, suggerim que les revistes adoptin requisits més estrictes per a la comunicació del mètode dels grups focals. La comunicació sovint deficient i inconsistent observada en aquests estudis també pot reflectir la manca d'orientacions clares i basades en l'evidència sobre com decidir la mida mostral. Cal més recerca empírica per desenvolupar la metodologia dels grups focals.</p><p><a href="https://doi.org/10.1186/1471-2288-11-26">DOI</a> · <a href="https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/1471-2288-11-26">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Carlsen_2011_Sample_size_focus_groups_BMC_Med_Res_Methodol.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E5.jpg"/>
+    </item>
+    <item>
+      <title>T4·E6 · Del mapa al pou</title>
+      <guid isPermaLink="false">serie-T4E6</guid>
+      <pubDate>Sat, 03 Jan 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T4E6_10_saturacio-focus-groups-2019.mp3" length="1614889" type="audio/mpeg"/>
+      <itunes:duration>2:07</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Hennink i col·laboradors, 2019, analitzen retrospectivament deu grups focals per estimar quan s'arriba a la saturació. La saturació de codis s'assoleix amb quatre grups, però la de significat requereix dos grups per cada estrat demogràfic.</p><p><b>Referència (APA 7):</b> Hennink, M. M., Kaiser, B. N., &amp; Weber, M. B. (2019). What influences saturation? Estimating sample sizes in focus group research. <i>Qualitative Health Research</i>, <i>29</i>(10), 1483–1496. https://doi.org/10.1177/1049732318821692</p><p><a href="https://doi.org/10.1177/1049732318821692">DOI</a> · <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/6635912">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Hennink_2019_Saturation_focus_groups_Qual_Health_Res.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E6.jpg"/>
+    </item>
+    <item>
+      <title>T4·E7 · La lupa enfocada</title>
+      <guid isPermaLink="false">serie-T4E7</guid>
+      <pubDate>Sat, 03 Jan 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T4E7_16_information-power-2016.mp3" length="1811530" type="audio/mpeg"/>
+      <itunes:duration>2:23</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Malterud i col·laboradors, 2016, proposen el poder d'informació com a model pragmàtic per planificar la mida de la mostra en estudis qualitatius amb entrevistes. Com més poder d'informació, menys participants calen, segons cinc dimensions: objectiu, especificitat de la mostra, teoria, qualitat del diàleg i estratègia d'anàlisi.</p><p><b>Referència (APA 7):</b> Malterud, K., Siersma, V. D., &amp; Guassora, A. D. (2016). Sample size in qualitative interview studies. <i>Qualitative Health Research</i>, <i>26</i>(13), 1753–1760. https://doi.org/10.1177/1049732315617444</p><p><a href="https://doi.org/10.1177/1049732315617444">DOI</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Malterud_2016_Information_power_Qual_Health_Res.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E7.jpg"/>
+    </item>
+    <item>
+      <title>T4·E8 · L&#x27;etiqueta del pot</title>
+      <guid isPermaLink="false">serie-T4E8</guid>
+      <pubDate>Sat, 03 Jan 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T4E8_20_SRQR-2014.mp3" length="1971981" type="audio/mpeg"/>
+      <itunes:duration>2:36</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>O'Brien i col·laboradors, 2014, sintetitzen recomanacions prèvies sobre com informar de la recerca qualitativa, amb la revisió d'experts externs. El resultat és l'estàndard SRQR, de 21 ítems, pensat per garantir la transparència però no per jutjar el rigor metodològic.</p><p><b>Referència (APA 7):</b> O’Brien, B. C., Harris, I. B., Beckman, T. J., Reed, D. A., &amp; Cook, D. A. (2014). Standards for reporting qualitative research. <i>Academic Medicine</i>, <i>89</i>(9), 1245–1251. https://doi.org/10.1097/acm.0000000000000388</p><p><a href="https://doi.org/10.1097/acm.0000000000000388">DOI</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/OBrien_2014_SRQR_Acad_Med.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E8.jpg"/>
+    </item>
+    <item>
+      <title>T4·E9 · Tres calaixos ordenats</title>
+      <guid isPermaLink="false">serie-T4E9</guid>
+      <pubDate>Sat, 03 Jan 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T4E9_28_COREQ-2007.mp3" length="1929903" type="audio/mpeg"/>
+      <itunes:duration>2:33</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Tong i col·laboradors, 2007, parteixen de 22 llistes de comprovació existents per elaborar la llista COREQ per informar d'entrevistes i grups focals. El resultat són 32 ítems en tres dominis: equip de recerca i reflexivitat, disseny de l'estudi, i anàlisi de dades i elaboració d'informes.</p><p><b>Referència (APA 7):</b> Tong, A., Sainsbury, P., &amp; Craig, J. (2007). Consolidated criteria for reporting qualitative research (COREQ): A 32-item checklist for interviews and focus groups. <i>International Journal for Quality in Health Care</i>, <i>19</i>(6), 349–357. https://doi.org/10.1093/intqhc/mzm042</p><p><a href="https://doi.org/10.1093/intqhc/mzm042">DOI</a> · <a href="https://academic.oup.com/intqhc/article-pdf/19/6/349/5070113/mzm042.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Tong_2007_COREQ_Int_J_Qual_Health_Care.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T4E9.jpg"/>
+    </item>
+    <item>
+      <title>T5·Presentació · Parlar amb màquines</title>
+      <guid isPermaLink="false">serie-T5E0</guid>
+      <pubDate>Sat, 03 Jan 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E0_presentacio.mp3" length="1081198" type="audio/mpeg"/>
+      <itunes:duration>1:21</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <description><![CDATA[<p>Presentació de la temporada cinc del podcast, dedicada als agents conversacionals en salut mental. Recorre dotze articles en forma d'embut: revisions i metaanàlisis generals, evidència específica en joves amb un contrast entre dues metaanàlisis, i quatre assajos aleatoritzats, des dels xatbots clàssics fins a la intel·ligència artificial generativa.</p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E0.jpg"/>
+    </item>
+    <item>
+      <title>T5·E1 · L&#x27;atles dels xatbots</title>
+      <guid isPermaLink="false">serie-T5E1</guid>
+      <pubDate>Sat, 03 Jan 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E1_13_chatbots-salut-mental-2026.mp3" length="10292745" type="audio/mpeg"/>
+      <itunes:duration>14:06</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Khosravi i col·laboradors, 2026: revisió de revisions de trenta-tres revisions que cataloga les característiques tècniques de cent trenta-vuit xatbots de salut mental. El text és la via d'interacció en el noranta-u per cent, predominen els sistemes basats en regles i la depressió i l'ansietat concentren la majoria de desenvolupaments; no s'hi analitza l'eficàcia clínica.</p><p><b>Referència (APA 7):</b> Khosravi, M., &amp; Izadi, R. (2026). Mental health chatbots and their technical features: A systematic review of reviews and a thematic analysis. <i>Cambridge Prisms: Global Mental Health</i>, <i>13</i>, Article e28. https://doi.org/10.1017/gmh.2026.10144</p><p><a href="https://doi.org/10.1017/gmh.2026.10144">DOI</a> · <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D15908054EADAB3DD68D49BEEFFB94E9/S2054425126101447a.pdf/div-class-title-mental-health-chatbots-and-their-technical-features-a-systematic-review-of-reviews-and-a-thematic-analysis-div.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Khosravi_2026_Mental_health_chatbots_review_of_reviews_GMH.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E1.jpg"/>
+    </item>
+    <item>
+      <title>T5·E1 · L&#x27;atles dels xatbots (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E1-video</guid>
+      <pubDate>Sat, 03 Jan 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/13_chatbots-salut-mental-2026.mp4" length="5911495" type="video/mp4"/>
+      <itunes:duration>8:24</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E1.jpg"/>
+    </item>
+    <item>
+      <title>T5·E2 · L&#x27;escala de tres graons</title>
+      <guid isPermaLink="false">serie-T5E2</guid>
+      <pubDate>Sat, 03 Jan 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E2_37_rule-based-LLM-2025.mp3" length="10787604" type="audio/mpeg"/>
+      <itunes:duration>14:52</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Hua i col·laboradors, 2025, a World Psychiatry: revisió sistemàtica de cent seixanta estudis empírics sobre xatbots de salut mental entre 2020 i 2024, classificats per arquitectura i per un marc d'avaluació en tres nivells. El 2024 els grans models de llenguatge ja eren el tipus d'estudi més freqüent, però només representaven el setze per cent dels estudis d'eficàcia clínica, encara dominats pels sistemes de regles.</p><p><b>Referència (APA 7):</b> Hua, Y., Siddals, S., Ma, Z., Galatzer-Levy, I., Xia, W., Hau, C., Na, H., Flathers, M., Linardon, J., Ayubcha, C., &amp; Torous, J. (2025). Charting the evolution of artificial intelligence mental health chatbots from rule-based systems to large language models: A systematic review. <i>World Psychiatry</i>, <i>24</i>(3), 383–394. https://doi.org/10.1002/wps.21352</p><p><a href="https://doi.org/10.1002/wps.21352">DOI</a> · <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12434366/">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Hua_2025_AI_mental_health_chatbots_rule_based_to_LLM_SR_World_Psychiatry.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E2.jpg"/>
+    </item>
+    <item>
+      <title>T5·E2 · L&#x27;escala de tres graons (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E2-video</guid>
+      <pubDate>Sat, 03 Jan 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/37_rule-based-LLM-2025.mp4" length="5770946" type="video/mp4"/>
+      <itunes:duration>8:10</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E2.jpg"/>
+    </item>
+    <item>
+      <title>T5·E3 · Deu vegades més</title>
+      <guid isPermaLink="false">serie-T5E3</guid>
+      <pubDate>Sat, 03 Jan 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E3_40_AI-CA-meta-analisi-2023.mp3" length="9135149" type="audio/mpeg"/>
+      <itunes:duration>12:33</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Li i col·laboradors, 2023, a npj Digital Medicine: revisió sistemàtica i metaanàlisi d'agents conversacionals basats en intel·ligència artificial, amb quinze assajos aleatoritzats en la metaanàlisi. Varen reduir el malestar psicològic i la depressió, però no l'ansietat ni el benestar de manera significativa, i l'efecte va ser molt més gran en poblacions clíniques o subclíniques.</p><p><b>Referència (APA 7):</b> Li, H., Zhang, R., Lee, Y.-C., Kraut, R. E., &amp; Mohr, D. C. (2023). Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being. <i>npj Digital Medicine</i>, <i>6</i>(1), Article 236. https://doi.org/10.1038/s41746-023-00979-5</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>La intel·ligència artificial (IA) conversacional, particularment els agents conversacionals (CAs) basats en IA, està guanyant terreny en l'atenció a la salut mental. Malgrat el seu ús creixent, hi ha poques avaluacions exhaustives del seu impacte sobre la salut mental i el benestar. Aquesta revisió sistemàtica i metaanàlisi pretén cobrir aquest buit sintetitzant l'evidència sobre l'efectivitat dels CAs basats en IA per millorar la salut mental i sobre els factors que influeixen en la seva efectivitat i en l'experiència d'usuari. Es varen consultar dotze bases de dades per localitzar estudis experimentals sobre els efectes dels CAs basats en IA en les malalties mentals i el benestar psicològic publicats abans del 26 de maig de 2023. Dels 7834 registres, es varen identificar 35 estudis elegibles per a la revisió sistemàtica, dels quals 15 assaigs controlats aleatoritzats es varen incloure en la metaanàlisi. La metaanàlisi va revelar que els CAs basats en IA redueixen significativament els símptomes de depressió (g de Hedges 0,64 [IC del 95 % 0,17-1,12]) i de malestar psicològic (g de Hedges 0,7 [IC del 95 % 0,18-1,22]). Aquests efectes eren més pronunciats en els CAs multimodals, basats en IA generativa, integrats en aplicacions mòbils o de missatgeria instantània i adreçats a poblacions clíniques/subclíniques i de persones grans. Tanmateix, les intervencions basades en CAs no varen mostrar cap millora significativa en el benestar psicològic global (g de Hedges 0,32 [IC del 95 % −0,13 a 0,78]). L'experiència d'usuari amb els CAs basats en IA va estar determinada en gran mesura per la qualitat de la relació terapèutica humà-IA, la implicació amb el contingut i una comunicació eficaç. Aquestes troballes subratllen el potencial dels CAs basats en IA per abordar els problemes de salut mental. La recerca futura hauria d'investigar els mecanismes subjacents a la seva efectivitat, avaluar-ne els efectes a llarg termini en diversos resultats de salut mental i avaluar la integració segura dels grans models de llenguatge (LLMs) en l'atenció a la salut mental.</p><p><a href="https://doi.org/10.1038/s41746-023-00979-5">DOI</a> · <a href="https://www.nature.com/articles/s41746-023-00979-5.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Li_2023_AI_conversational_agents_meta_analysis_npj_Digit_Med.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E3.jpg"/>
+    </item>
+    <item>
+      <title>T5·E3 · Deu vegades més (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E3-video</guid>
+      <pubDate>Sat, 03 Jan 2026 15:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/40_AI-CA-meta-analisi-2023.mp4" length="5555076" type="video/mp4"/>
+      <itunes:duration>7:48</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E3.jpg"/>
+    </item>
+    <item>
+      <title>T5·E4 · El glaçó al sol</title>
+      <guid isPermaLink="false">serie-T5E4</guid>
+      <pubDate>Sat, 03 Jan 2026 16:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E4_08_CBT-chatbots-meta-2026.mp3" length="12342776" type="audio/mpeg"/>
+      <itunes:duration>17:02</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Gong i col·laboradors, 2026: revisió sistemàtica i metaanàlisi de vint-i-nou assajos aleatoritzats amb xatbots basats en la teràpia cognitivoconductual per a adults amb símptomes depressius o ansiosos. L'efecte va ser moderat en depressió i petit en ansietat, i, en ansietat, més gran en perfils comòrbids, i es va atenuar en el seguiment; la certesa de l'evidència es va qualificar entre molt baixa i baixa.</p><p><b>Referència (APA 7):</b> Gong, B., Yao, N., Xie, H., Huang, C., Kishimoto, T., Berenbaum, H., &amp; Mu, W. (2026). Efficacy, user engagement, and acceptability of cognitive behavioral therapy–oriented psychological chatbots for adults with depressive and/or anxiety symptoms: Systematic review and meta-analysis of randomized controlled trials. <i>Journal of Medical Internet Research</i>, <i>28</i>, Article e82677. https://doi.org/10.2196/82677</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents: La teràpia cognitivoconductual (CBT) és la psicoteràpia més estudiada per a la depressió i l'ansietat, però la seva aplicació s'enfronta a barreres importants, com ara l'accés limitat, el cost i les limitacions de temps. Els xatbots psicològics orientats a la CBT ofereixen una via prometedora per afrontar aquests reptes. Tanmateix, la seva eficàcia global, la implicació dels usuaris i l'acceptabilitat no s'han sintetitzat de manera sistemàtica.<br/>Objectiu: Aquest estudi va tenir com a objectiu avaluar l'eficàcia, la implicació dels usuaris i l'acceptabilitat dels xatbots orientats a la CBT per a persones adultes amb símptomes depressius i/o d'ansietat.<br/>Mètodes: Es va dur a terme una cerca sistemàtica en 9 bases de dades, entre les quals PubMed, Cochrane Central Register of Controlled Trials, Embase, Web of Science, PsycINFO, CINAHL, China National Knowledge Infrastructure, WanFang i VIP Databases, des del seu inici fins al febrer de 2026. Els criteris d'elegibilitat incloïen assajos controlats aleatoritzats que comparassin xatbots orientats a la CBT amb grups control en persones adultes amb símptomes depressius i/o d'ansietat. El risc de biaix (ROB) es va avaluar amb l'eina ROB de Cochrane. Les metaanàlisis d'efectes aleatoris (amb l'ajust de Hartung-Knapp-Sidik-Jonkman) varen calcular les mides de l'efecte agrupades (g de Hedges), els IC del 95 % i els intervals de predicció (IP) del 95 %. L'heterogeneïtat es va avaluar amb l'estadístic I², i es varen emprar gràfics de Galbraith per identificar valors atípics per a les anàlisis de sensibilitat posteriors. Les anàlisis de subgrups i de metaregressió varen examinar possibles moderadors. La certesa de l'evidència es va avaluar amb l'enfocament GRADE (Grading of Recommendations Assessment, Development, and Evaluation). Les dades sobre la implicació dels usuaris i l'acceptabilitat es varen extreure i sintetitzar mitjançant mètodes narratius i quantitatius quan n'hi havia de disponibles.<br/>Resultats: Es varen incloure vint-i-nou assajos controlats aleatoritzats elegibles. Els xatbots psicològics orientats a la CBT varen produir una reducció moderada dels símptomes depressius en finalitzar la intervenció (g = −0,55; IC del 95 %: −0,70 a −0,40; IP del 95 %: −1,23 a 0,13) i una reducció petita dels símptomes d'ansietat (g = −0,26; IC del 95 %: −0,37 a −0,14; IP del 95 %: −0,67 a 0,15). En el seguiment, els efectes varen ser petits per a la depressió (g = −0,32; IC del 95 %: −0,55 a −0,09; IP del 95 %: −0,93 a 0,29) i no significatius per a l'ansietat (g = −0,19; IC del 95 %: −0,43 a 0,04; IP del 95 %: −0,84 a 0,46). Les anàlisis de subgrups i de metaregressió varen revelar que els resultats en ansietat estaven moderats significativament pels perfils clínics —amb avantatges diferenciats per als símptomes comòrbids— i per la proporció de participants dones. Els xatbots orientats a la CBT varen obtenir un nivell adequat d'implicació, d'acord amb els estàndards de les intervencions digitals. Tot i que les valoracions de satisfacció dels usuaris varen ser generalment favorables, encara cal resoldre limitacions tècniques i patrons d'interacció repetitius per millorar l'acceptabilitat global. Pel que fa a les limitacions de l'evidència, la certesa global es va qualificar de molt baixa a baixa, principalment a causa d'un ROB elevat i d'una heterogeneïtat substancial.<br/>Conclusions: Aquest estudi aïlla de manera innovadora els xatbots orientats a la CBT del conjunt més ampli d'intervencions digitals i proporciona una avaluació precisa i guiada per la metodologia d'unes eines terapèutiques fonamentades teòricament. Aquesta revisió aporta al camp evidència crucial que aquestes eines produeixen un alleujament significatiu a curt termini, en particular en perfils d'ansietat comòrbida. En el món real, els xatbots de CBT ofereixen un potencial profund com a eines de primera línia escalables i de baixa barrera d'accés. Per mantenir la implicació, els desenvolupaments futurs han d'evolucionar des de guions rígids basats en regles cap a arquitectures adaptatives impulsades per models de llenguatge de gran mida, tot garantint la seguretat clínica.</p><p><a href="https://doi.org/10.2196/82677">DOI</a> · <a href="https://doi.org/10.2196/82677">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Gong_2026_CBT_chatbots_meta_analysis_JMIR.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E4.jpg"/>
+    </item>
+    <item>
+      <title>T5·E4 · El glaçó al sol (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E4-video</guid>
+      <pubDate>Sat, 03 Jan 2026 17:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/08_CBT-chatbots-meta-2026.mp4" length="5479125" type="video/mp4"/>
+      <itunes:duration>7:50</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E4.jpg"/>
+    </item>
+    <item>
+      <title>T5·E5 · Agradar no és curar</title>
+      <guid isPermaLink="false">serie-T5E5</guid>
+      <pubDate>Sat, 03 Jan 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E5_33_BALAN-2024.mp3" length="9559062" type="audio/mpeg"/>
+      <itunes:duration>13:09</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Balan i col·laboradores, 2024, a npj Digital Medicine: revisió d'abast de vint-i-cinc estudis sobre agents conversacionals totalment automatitzats per a la salut emocional de joves de fins a vint-i-cinc anys. La viabilitat i la usabilitat varen ser altes, però els resultats en ansietat i depressió varen ser inconclusos, el compromís va decaure amb el temps i dos estudis varen registrar efectes adversos greus.</p><p><b>Referència (APA 7):</b> Balan, R., Dobrean, A., &amp; Poetar, C. R. (2024). Use of automated conversational agents in improving young population mental health: A scoping review. <i>npj Digital Medicine</i>, <i>7</i>(1), Article 75. https://doi.org/10.1038/s41746-024-01072-1</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Els agents conversacionals (CAs) automatitzats han sorgit com una solució prometedora en les intervencions de salut mental entre la gent jove. Per això, l'objectiu d'aquesta revisió d'abast és examinar l'estat actual de la recerca sobre les intervencions mediades per CAs totalment automatitzats per al component emocional de la salut mental entre la gent jove. Les bases de dades seleccionades es varen consultar el març de 2023. Els estudis inclosos eren recerca primària que informava sobre el desenvolupament, la viabilitat/usabilitat o l'avaluació de CAs totalment automatitzats com a eina per millorar el component emocional de la salut mental en població jove. Es varen incloure vint-i-cinc estudis (N = 1707). La majoria d'aplicacions de CAs automatitzats eren intervencions preventives autònomes adreçades a l'ansietat i la depressió. Els CAs automatitzats eren predominantment chatbots basats en IA, que empraven el text com a canal principal de comunicació. En conjunt, els resultats d'aquesta revisió d'abast varen mostrar que les intervencions mediades per CAs automatitzats per a problemes emocionals són acceptables, atractives i amb una usabilitat elevada. No obstant això, els resultats d'eficàcia clínica són molt menys concloents, ja que gairebé la meitat dels estudis d'avaluació no varen informar de cap efecte significatiu sobre els resultats de salut mental emocional. A partir d'aquestes troballes, es pot concloure que hi ha una necessitat urgent de millorar les aplicacions de CAs automatitzats existents per augmentar-ne l'eficàcia, així com de dur a terme recerca metodològicament més rigorosa en aquest àmbit.</p><p><a href="https://doi.org/10.1038/s41746-024-01072-1">DOI</a> · <a href="https://www.nature.com/articles/s41746-024-01072-1.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Balan_2024_Conversational_agents_young_population_scoping_review_npj_Digit_Med.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E5.jpg"/>
+    </item>
+    <item>
+      <title>T5·E5 · Agradar no és curar (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E5-video</guid>
+      <pubDate>Sat, 03 Jan 2026 19:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/33_BALAN-2024.mp4" length="4749631" type="video/mp4"/>
+      <itunes:duration>6:42</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E5.jpg"/>
+    </item>
+    <item>
+      <title>T5·E6 · Dues aixetes</title>
+      <guid isPermaLink="false">serie-T5E6</guid>
+      <pubDate>Sat, 03 Jan 2026 20:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E6_15_chatbot-joves-2025.mp3" length="9696918" type="audio/mpeg"/>
+      <itunes:duration>13:21</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Li i col·laboradors, 2025: revisió sistemàtica i metaanàlisi de vint-i-nou estudis d'intervenció amb xatbots per a joves de deu a vint-i-quatre anys. Els xatbots varen reduir el malestar psicològic de manera significativa, sobretot en poblacions clíniques o subclíniques, però no varen millorar el benestar, i només catorze estudis incloïen mesures explícites de seguretat.</p><p><b>Referència (APA 7):</b> Li, J., Li, Y., Hu, Y., Ma, D. C. F., Mei, X., Chan, E. A., &amp; Yorke, J. (2025). Chatbot-delivered interventions for improving mental health among young people: A systematic review and meta-analysis. <i>Worldviews on Evidence-Based Nursing</i>, <i>22</i>(4), Article e70059. https://doi.org/10.1111/wvn.70059</p><p><a href="https://doi.org/10.1111/wvn.70059">DOI</a> · <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/wvn.70059">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Li_2025_Chatbot_interventions_young_people_meta_analysis_WVN.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E6.jpg"/>
+    </item>
+    <item>
+      <title>T5·E6 · Dues aixetes (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E6-video</guid>
+      <pubDate>Sat, 03 Jan 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/15_chatbot-joves-2025.mp4" length="6164470" type="video/mp4"/>
+      <itunes:duration>8:48</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E6.jpg"/>
+    </item>
+    <item>
+      <title>T5·E7 · El primer bessó</title>
+      <guid isPermaLink="false">serie-T5E7</guid>
+      <pubDate>Sat, 03 Jan 2026 22:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E7_34_AI-chatbot-meta-analisi-2025.mp3" length="9273628" type="audio/mpeg"/>
+      <itunes:duration>12:46</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Feng X. i col·laboradors, 2025, a Journal of Medical Internet Research: revisió sistemàtica i metaanàlisi de trenta-un assajos aleatoritzats amb xatbots d'intel·ligència artificial en adolescents i joves de quinze a trenta-nou anys. Els xatbots varen reduir el malestar global, la depressió, l'ansietat i l'estrès, però vint-i-cinc dels trenta-un estudis tenien alt risc de biaix i la certesa de l'evidència va ser entre molt baixa i baixa.</p><p><b>Referència (APA 7):</b> Feng, X., Tian, L., Ho, G. W. K., Yorke, J., &amp; Hui, V. (2025). The effectiveness of AI chatbots in alleviating mental distress and promoting health behaviors among adolescents and young adults: Systematic review and meta-analysis. <i>Journal of Medical Internet Research</i>, <i>27</i>, Article e79850. https://doi.org/10.2196/79850</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents:<br/>La prevalença del malestar psicològic i de les conductes de risc per a la salut entre adolescents i adults joves s'ha convertit en una preocupació urgent de salut pública. Els xatbots d'intel·ligència artificial (IA) són cada vegada més reconeguts pel seu potencial per oferir suport en salut mental i educació per a la salut de manera escalable i accessible; tanmateix, encara hi ha dubtes sobre la seva efectivitat davant els reptes específics que afronten els adolescents i els adults joves.<br/>Objectiu:<br/>Aquest estudi va tenir com a objectiu sintetitzar l'evidència dels assaigs controlats aleatoritzats (ACA) sobre l'efectivitat dels xatbots d'IA per alleujar el malestar psicològic i promoure conductes saludables en adolescents i adults joves.<br/>Mètodes:<br/>Es varen consultar vuit bases de dades (PubMed, PsycINFO, Cochrane Library, CINAHL, Embase, Web of Science, Scopus i IEEE Xplore) a la recerca d'ACA publicats en anglès entre l'1 de gener de 2014 i el 26 de gener de 2025. Els estudis elegibles avaluaven els efectes dels xatbots d'IA sobre el malestar psicològic i les conductes de salut en adolescents i adults joves (15–39 anys). Les dades extretes es varen sintetitzar de manera narrativa o mitjançant metaanàlisi, segons escaigués; es varen fer anàlisis de subgrups i de metaregressió per explorar els moderadors de l'efectivitat dels xatbots. El risc de biaix es va avaluar amb l'eina revisada de risc de biaix de Cochrane per a assaigs aleatoritzats (RoB 2). La qualitat de l'evidència es va avaluar amb l'enfocament GRADE (Grading of Recommendations Assessment, Development and Evaluation).<br/>Resultats:<br/>Dels 2.495 registres recuperats, es varen incloure 31 ACA, amb un total de 29.637 participants; 26 estudis eren elegibles per a la metaanàlisi. En conjunt, els xatbots d'IA varen mostrar efectes de petits a moderats per mitigar el malestar psicològic (diferència de mitjanes estandarditzada [DME] −0,35; IC del 95 % −0,46 a −0,24; P &lt; 0,001) i per promoure conductes saludables (DME 0,11; IC del 95 % 0,03 a 0,19; P = 0,006) en adolescents i adults joves. Es varen observar millores significatives en els símptomes depressius (DME −0,43; IC del 95 % −0,62 a −0,23; P &lt; 0,001), d'ansietat (DME −0,37; IC del 95 % −0,58 a −0,17; P &lt; 0,001), d'estrès (DME −0,41; IC del 95 % −0,50 a −0,31; P &lt; 0,001) i psicosomàtics (DME −0,48; IC del 95 % −0,82 a −0,14; P = 0,006); en l'afecte negatiu (DME −0,27; IC del 95 % −0,53 a −0,01; P = 0,04); i en l'autoambivalència i el malestar per l'aparença (DME −0,25; IC del 95 % −0,34 a −0,17; P = 0,01). Tot i que els xatbots d'IA varen contribuir a millores modestes en la satisfacció amb la vida i el benestar, el seu impacte en l'afecte positiu i l'autoeficàcia va ser limitat. L'efectivitat dels xatbots d'IA va variar segons les mostres diana, les condicions de control i característiques de disseny com els mètodes del sistema de diàleg, els formats de desplegament i l'ús de recordatoris. La implicació dels usuaris va sorgir com un factor crític d'èxit, i el contingut repetitiu i els problemes tècnics es varen assenyalar com les principals barreres per a l'adherència.<br/>Conclusions:<br/>Aquesta revisió sistemàtica i metaanàlisi posa en relleu el potencial dels xatbots d'IA per abordar els reptes de salut mental i promoure conductes saludables en adolescents i adults joves. Els sistemes de diàleg basats en recuperació varen mostrar efectes consistents i fiables, mentre que els sistemes generatius varen ser prometedors, però la seva efectivitat global no va ser concloent. La recerca futura hauria de prioritzar el desenvolupament de protocols de seguretat i de marcs d'avaluació per als sistemes generatius, i la validació del seu impacte a llarg termini en la salut mental i el canvi de conducta en adolescents i adults joves.</p><p><a href="https://doi.org/10.2196/79850">DOI</a> · <a href="https://www.jmir.org/2025/1/e79850/PDF">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Feng-X_2025_AI_chatbots_adolescents_young_adults_meta_analysis_JMIR.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E7.jpg"/>
+    </item>
+    <item>
+      <title>T5·E7 · El primer bessó (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E7-video</guid>
+      <pubDate>Sat, 03 Jan 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/34_AI-chatbot-meta-analisi-2025.mp4" length="6396943" type="video/mp4"/>
+      <itunes:duration>9:03</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E7.jpg"/>
+    </item>
+    <item>
+      <title>T5·E8 · El segon bessó</title>
+      <guid isPermaLink="false">serie-T5E8</guid>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E8_35_AI-CA-joves-2025.mp3" length="8841147" type="audio/mpeg"/>
+      <itunes:duration>12:10</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Feng Y. i col·laboradors, 2025, a Journal of Medical Internet Research: metaanàlisi de quinze assajos aleatoritzats amb agents conversacionals amb processament del llenguatge natural en joves de dotze a vint-i-cinc anys. L'efecte en depressió va ser moderat i més gran en poblacions subclíniques, mentre que en estrès i benestar no va ser significatiu i en ansietat l'efecte inicial va desaparèixer un cop ajustats els resultats.</p><p><b>Referència (APA 7):</b> Feng, Y., Hang, Y., Wu, W., Song, X., Xiao, X., Dong, F., &amp; Qiao, Z. (2025). Effectiveness of AI-driven conversational agents in improving mental health among young people: Systematic review and meta-analysis. <i>Journal of Medical Internet Research</i>, <i>27</i>, Article e69639. https://doi.org/10.2196/69639</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents:<br/>La prevalença creixent dels problemes de salut mental entre adolescents i adults joves, juntament amb les barreres per accedir a la teràpia tradicional, ha suscitat un interès creixent pels agents conversacionals (CAs) impulsats per intel·ligència artificial (IA) com a nova intervenció digital de salut mental. Tot i l'evidència acumulada que suggereix l'efectivitat dels CAs impulsats per IA en salut mental, encara hi ha poca evidència sobre la seva efectivitat per a diferents problemes de salut mental en adolescents i adults joves.<br/>Objectiu:<br/>Aquest estudi té com a objectiu examinar l'efectivitat dels CAs impulsats per IA en la salut mental de la gent jove i explorar-ne els possibles moderadors de l'eficàcia.<br/>Mètodes:<br/>Es varen consultar sistemàticament 5 bases de dades principals (PubMed, PsycINFO, Embase, Cochrane Library i Web of Science), des de la creació de cada base de dades fins al 6 d'agost de 2024. Es consideraren elegibles els assaigs controlats aleatoritzats que comparaven CAs impulsats per IA amb qualsevol altre tipus de condició de control en la millora dels símptomes depressius, els símptomes d'ansietat generalitzada, l'estrès, el benestar mental i l'afecte positiu i negatiu, sempre que s'haguessin dut a terme en gent jove de 12 a 25 anys. La qualitat d'aquests estudis es va avaluar amb l'eina de risc de biaix de Cochrane. Les dades les varen extreure 2 revisors independents i les va comprovar un tercer revisor. Les mides de l'efecte agrupades (g de Hedges) es varen calcular amb models d'efectes aleatoris i es varen presentar visualment en diagrames de bosc.<br/>Resultats:<br/>Es varen incloure un total de 14 articles (amb 15 assaigs), amb 1974 participants. Els resultats varen indicar que, després d'ajustar pel biaix de publicació, els CAs impulsats per IA tenien un efecte de moderat a gran (g de Hedges = 0,61, IC del 95 % 0,35-0,86) sobre els símptomes depressius en comparació amb les condicions de control. Tanmateix, les mides de l'efecte ajustades pel biaix de publicació per als símptomes d'ansietat generalitzada (g de Hedges = 0,06, IC del 95 % −0,21 a 0,32), l'estrès (g de Hedges = 0,002, IC del 95 % −0,19 a 0,20), l'afecte positiu (g de Hedges = 0,01, IC del 95 % −0,24 a 0,27), l'afecte negatiu (g de Hedges = 0,07, IC del 95 % −0,13 a 0,27) i el benestar mental (g de Hedges = 0,04, IC del 95 % −0,21 a 0,29) no varen ser significatives en cap cas. Les anàlisis de subgrups varen mostrar que els CAs impulsats per IA eren especialment efectius per millorar els símptomes depressius en poblacions subclíniques (g de Hedges = 0,74, IC del 95 % 0,50-0,98).<br/>Conclusions:<br/>Les troballes posen de relleu el potencial dels CAs impulsats per IA per a la intervenció precoç en la depressió en aquesta població i subratllen la necessitat de més millores per augmentar-ne l'eficàcia en un ventall més ampli de resultats de salut mental. Entre les limitacions principals de l'evidència revisada hi ha l'heterogeneïtat en les orientacions terapèutiques dels CAs i la manca de mesures de seguiment. La recerca futura hauria d'explorar els efectes a llarg termini dels CAs impulsats per IA sobre els resultats de salut mental.</p><p><a href="https://doi.org/10.2196/69639">DOI</a> · <a href="https://www.jmir.org/2025/1/e69639/PDF">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Feng-Y_2025_AI_conversational_agents_young_people_meta_analysis_JMIR.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E8.jpg"/>
+    </item>
+    <item>
+      <title>T5·E8 · El segon bessó (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E8-video</guid>
+      <pubDate>Sun, 04 Jan 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/35_AI-CA-joves-2025.mp4" length="5455755" type="video/mp4"/>
+      <itunes:duration>7:42</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E8.jpg"/>
+    </item>
+    <item>
+      <title>T5·E9 · La drecera del xat</title>
+      <guid isPermaLink="false">serie-T5E9</guid>
+      <pubDate>Sun, 04 Jan 2026 02:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E9_38_Fido-RCT-2024.mp3" length="9008530" type="audio/mpeg"/>
+      <itunes:duration>12:24</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Karkosz i col·laboradors, 2024, a JMIR Formative Research: assaig aleatoritzat amb vuitanta-un joves adults subclínics que va comparar el xatbot terapèutic Fido, en polonès, amb un llibre d'autoajuda. Els dos grups varen millorar sense diferències entre ells en depressió, ansietat i benestar, però el grup del xatbot va invertir menys temps, i la solitud només va baixar en els usuaris més freqüents.</p><p><b>Referència (APA 7):</b> Karkosz, S., Szymański, R., Sanna, K., &amp; Michałowski, J. (2024). Effectiveness of a web-based and mobile therapy chatbot on anxiety and depressive symptoms in subclinical young adults: Randomized controlled trial. <i>JMIR Formative Research</i>, <i>8</i>, Article e47960. https://doi.org/10.2196/47960</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents:<br/>Hi ha hagut una necessitat creixent d'oferir ajuda especialitzada a les persones amb símptomes depressius i d'ansietat, particularment adolescents i adults joves. Hi ha evidència, procedent d'una intervenció de 2 setmanes, que els chatbots (p. ex., Woebot) són efectius per reduir la depressió i l'ansietat, un efecte que no es va detectar en el grup control, al qual es varen proporcionar materials d'autoajuda. Tot i que els chatbots són una solució prometedora, hi ha poca evidència científica sobre l'eficàcia de la teràpia cognitivoconductual (CBT) guiada per agents fora de la llengua anglesa, especialment en llengües altament flexives.<br/>Objectiu:<br/>Aquest estudi tenia com a objectiu mesurar l'eficàcia de Fido, un chatbot terapèutic que empra la llengua polonesa. Està adreçat als símptomes depressius i d'ansietat mitjançant tècniques de CBT. Hipotetitzàrem que els participants que empraven Fido mostrarien una reducció més gran dels símptomes d'ansietat i depressius que el grup control.<br/>Mètodes:<br/>Vàrem dur a terme un assaig controlat aleatoritzat obert de 2 braços amb 81 participants amb depressió o ansietat subclíniques, reclutats a través de les xarxes socials. Els participants es varen distribuir en un grup experimental (que va interactuar amb un chatbot Fido totalment automatitzat) i un grup control (que va rebre un llibre d'autoajuda). Tots dos mètodes d'intervenció tractaven temes com la psicoeducació general i la identificació i modificació de distorsions cognitives mitjançant el qüestionament socràtic. El chatbot també incloïa la identificació de la ideació suïcida i la derivació a línies telefòniques de prevenció del suïcidi. Vàrem emprar escales d'autoavaluació per mesurar els resultats primaris, entre els quals els nivells de depressió, d'ansietat, de tendència a la preocupació, de satisfacció amb la vida i de solitud, a l'inici, després de la intervenció de 2 setmanes i en el seguiment d'1 mes. També vàrem controlar resultats secundaris, entre els quals la implicació i la freqüència d'ús.<br/>Resultats:<br/>No hi va haver diferències en els símptomes d'ansietat i depressius entre els grups en el moment de la inscripció i a l'inici. Després de la intervenció, els símptomes depressius i d'ansietat es varen reduir en tots dos grups (chatbot: n = 36; control: n = 38), i es varen mantenir estables en el seguiment d'1 mes. La solitud no va ser significativament diferent entre els grups després de la intervenció, però una anàlisi exploratòria va mostrar una disminució de la solitud entre els participants que empraven Fido amb més freqüència. Tots dos grups varen emprar la seva tècnica d'intervenció amb una freqüència similar; tanmateix, el grup control va dedicar més temps a la intervenció (mitjana 117,57, DE 72,40 minuts) que el grup Fido (mitjana 79,44, DE 42,96 minuts).<br/>Conclusions:<br/>No vàrem replicar les troballes d'estudis anteriors (p. ex., Woebot), ja que tots dos braços varen produir efectes terapèutics. No obstant això, aquests resultats concorden amb altres recerques sobre intervencions per internet. Amb tot, Fido va proporcionar prou ajuda per reduir els símptomes d'ansietat i depressius i va disminuir la solitud percebuda entre els usuaris d'alta freqüència, la qual cosa constitueix una de les primeres evidències de l'eficàcia dels chatbots amb agents que empren una llengua altament flexiva. Cal més recerca per determinar l'efectivitat a llarg termini de Fido en condicions reals i la seva eficàcia en una mostra clínica.<br/>Registre de l'assaig:<br/>ClinicalTrials.gov NCT05762939; https://clinicaltrials.gov/study/NCT05762939; Open Science Foundation Registry 2cqt3; https://osf.io/2cqt3</p><p><a href="https://doi.org/10.2196/47960">DOI</a> · <a href="https://doi.org/10.2196/47960">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Karkosz_2024_Therapy_chatbot_subclinical_young_adults_RCT_JMIR_Form_Res.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E9.jpg"/>
+    </item>
+    <item>
+      <title>T5·E9 · La drecera del xat (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E9-video</guid>
+      <pubDate>Sun, 04 Jan 2026 03:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/38_Fido-RCT-2024.mp4" length="5711841" type="video/mp4"/>
+      <itunes:duration>8:06</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E9.jpg"/>
+    </item>
+    <item>
+      <title>T5·E10 · Motor i carrosseria</title>
+      <guid isPermaLink="false">serie-T5E10</guid>
+      <pubDate>Sun, 04 Jan 2026 04:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E10_42_AirHeart-RCT-2025.mp3" length="9152470" type="audio/mpeg"/>
+      <itunes:duration>12:35</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Six i col·laboradors, 2025, a JMIR Mental Health: assaig aleatoritzat factorial amb dos-cents nou estudiants universitaris que varen fer servir un agent virtual de teràpia cognitivoconductual breu amb conversa per veu o sense i amb animació o sense. Els símptomes depressius, l'estrès i la rumiació varen baixar en totes les versions; l'animació va millorar molt la usabilitat i la conversa no va aportar cap efecte.</p><p><b>Referència (APA 7):</b> Six, S., Schlesener, E., Hill, V., Babu, S. V., &amp; Byrne, K. (2025). Impact of conversational and animation features of a mental health app virtual agent on depressive symptoms and user experience among college students: Randomized controlled trial. <i>JMIR Mental Health</i>, <i>12</i>, Article e67381. https://doi.org/10.2196/67381</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents:<br/>Nombroses aplicacions de salut mental afirmen que alleugen els símptomes depressius. Hi ha evidència sòlida que les aplicacions de salut mental basades en la teràpia cognitivoconductual breu (TCCb) poden reduir els símptomes depressius; tanmateix, la recerca que aclareixi quines característiques concretes en poden augmentar els beneficis terapèutics és escassa. Una característica de disseny que pot influir en l'efectivitat i en l'experiència d'usuari és la inclusió d'agents virtuals capaços d'imitar interaccions humanes realistes cara a cara.<br/>Objectiu:<br/>L'objectiu d'aquest experiment va ser determinar l'efecte de les característiques conversacionals i d'animació d'un agent virtual, dins una aplicació de salut mental basada en la TCCb, sobre els símptomes depressius i l'experiència d'usuari en estudiants universitaris amb símptomes depressius i sense.<br/>Mètodes:<br/>Els estudiants universitaris (N = 209) varen completar una intervenció de dues setmanes en què varen fer servir una aplicació de salut mental basada en la TCCb amb un agent virtual terapèutic personalitzable que variava en les característiques conversacionals i d'animació. Es va emprar un assaig controlat aleatoritzat de disseny 2 (temps: inici vs. seguiment a les dues setmanes) × 2 (agent conversacional vs. no conversacional) × 2 (agent animat vs. no animat) per avaluar els símptomes de salut mental (qüestionaris Patient Health Questionnaire-8, Perceived Stress Scale-10 i Response Rumination Scale) i l'experiència d'usuari (mHealth App Usability Questionnaire, MAUQ) en estudiants universitaris amb símptomes depressius actuals i sense. En el seguiment es varen avaluar la usabilitat de l'aplicació i, mitjançant preguntes qualitatives, les percepcions dels usuaris sobre les interaccions amb el seu agent virtual terapèutic i sobre el procés de personalització.<br/>Resultats:<br/>Els resultats de l'ANOVA mixta (anàlisi de la variància) varen mostrar una disminució significativa dels símptomes de depressió (P = 0,002; mitjana [DE] = 5,5 [4,86] en el seguiment vs. 6,35 [4,71] a l'inici), d'estrès (P = 0,005; mitjana [DE] = 15,91 [7,67] en el seguiment vs. 17,02 [6,81] a l'inici) i de rumiació (P = 0,03; mitjana [DE] = 40,42 [12,96] en el seguiment vs. 41,92 [13,61] a l'inici); en canvi, no es va observar cap efecte significatiu de la conversa ni de l'animació. Els resultats també indiquen un augment significatiu de l'experiència d'usuari en les condicions animades. Aquest augment significatiu en les condicions animades es reflecteix també en la facilitat d'ús i la satisfacció de l'usuari (F(1, 201) = 102,60; P &lt; 0,001), en l'organització de la informació del sistema (F(1, 201) = 123,12; P &lt; 0,001) i en la utilitat de l'aplicació (F(1, 201) = 3667,62; P &lt; 0,001).<br/>Conclusions:<br/>Aquest experiment dona suport a les aplicacions de salut mental basades en la TCCb que inclouen agents virtuals terapèutics personalitzables i d'aparença humana, i a la seva capacitat per reduir significativament la simptomatologia negativa en poc temps. La intervenció amb l'aplicació va reduir els símptomes de salut mental tant si l'agent tenia característiques conversacionals o d'animació com si no, però les característiques d'animació varen millorar l'experiència d'usuari. Aquests efectes es varen observar tant en usuaris amb símptomes depressius com en usuaris sense.</p><p><a href="https://doi.org/10.2196/67381">DOI</a> · <a href="https://mental.jmir.org/2025/1/e67381/PDF">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Six_2025_Virtual_agent_conversational_animation_features_RCT_JMIR_Ment_Health.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E10.jpg"/>
+    </item>
+    <item>
+      <title>T5·E10 · Motor i carrosseria (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E10-video</guid>
+      <pubDate>Sun, 04 Jan 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/42_AirHeart-RCT-2025.mp4" length="5349496" type="video/mp4"/>
+      <itunes:duration>7:48</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E10.jpg"/>
+    </item>
+    <item>
+      <title>T5·E11 · Cinc minuts cada dia</title>
+      <guid isPermaLink="false">serie-T5E11</guid>
+      <pubDate>Sun, 04 Jan 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E11_44_LLM-agent-depressio-2025.mp3" length="9060027" type="audio/mpeg"/>
+      <itunes:duration>12:27</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Zhao i col·laboradors, 2025: assaig aleatoritzat de vint-i-vuit dies amb vuit-cents seixanta-cinc joves adults amb malestar lleu, que varen conversar cada dia amb un agent basat en un gran model de llenguatge dins Douyin, davant una llista d'espera. La depressió va baixar a les dues i a les quatre setmanes i l'ansietat només a les quatre, però l'abandonament en el grup d'intervenció va ser del trenta-set per cent i l'anàlisi va ser només per protocol.</p><p><b>Referència (APA 7):</b> Zhao, Y., Qian, W., Chen, Y., Wu, D., Luo, Y., Gao, C., Wu, K., &amp; Liu, Z. (2025). Effect of an AI agent trained on a large language model (LLM) as an intervention for depression and anxiety symptoms in young adults: A 28-day randomized controlled trial. <i>Applied Psychology: Health and Well-Being</i>, <i>17</i>(5), Article e70067. https://doi.org/10.1111/aphw.70067</p><p><a href="https://doi.org/10.1111/aphw.70067">DOI</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Zhao_2025_LLM_agent_depression_anxiety_young_adults_RCT_Appl_Psychol_HWB.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E11.jpg"/>
+    </item>
+    <item>
+      <title>T5·E11 · Cinc minuts cada dia (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E11-video</guid>
+      <pubDate>Sun, 04 Jan 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/44_LLM-agent-depressio-2025.mp4" length="6124939" type="video/mp4"/>
+      <itunes:duration>8:42</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E11.jpg"/>
+    </item>
+    <item>
+      <title>T5·E12 · Sempre amb copilot</title>
+      <guid isPermaLink="false">serie-T5E12</guid>
+      <pubDate>Sun, 04 Jan 2026 08:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T5E12_36_Therabot-RCT-2025.mp3" length="9300178" type="audio/mpeg"/>
+      <itunes:duration>12:47</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Heinz i col·laboradors, 2025, a NEJM AI: assaig aleatoritzat amb dos-cents deu adults amb símptomes de nivell clínic que va comparar Therabot, un xatbot d'intel·ligència artificial generativa ajustat per experts, amb una llista d'espera. Va reduir la depressió, l'ansietat i les preocupacions pel pes amb efectes de moderats a grans i una aliança terapèutica alta, però va requerir vint-i-vuit intervencions humanes per seguretat.</p><p><b>Referència (APA 7):</b> Heinz, M. V., Mackin, D. M., Trudeau, B. M., Bhattacharya, S., Wang, Y., Banta, H. A., Jewett, A. D., Salzhauer, A. J., Griffin, T. Z., &amp; Jacobson, N. C. (2025). Randomized trial of a generative AI chatbot for mental health treatment. <i>NEJM AI</i>, <i>2</i>(4). https://doi.org/10.1056/aioa2400802</p><p><a href="https://doi.org/10.1056/aioa2400802">DOI</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Heinz_2025_Generative_AI_chatbot_RCT_NEJM_AI.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E12.jpg"/>
+    </item>
+    <item>
+      <title>T5·E12 · Sempre amb copilot (vídeo)</title>
+      <guid isPermaLink="false">serie-T5E12-video</guid>
+      <pubDate>Sun, 04 Jan 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/36_Therabot-RCT-2025.mp4" length="5616572" type="video/mp4"/>
+      <itunes:duration>7:51</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T5E12.jpg"/>
+    </item>
+    <item>
+      <title>T6·Presentació · La torre de guaita</title>
+      <guid isPermaLink="false">serie-T6E0</guid>
+      <pubDate>Sun, 04 Jan 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T6E0_presentacio.mp3" length="1026886" type="audio/mpeg"/>
+      <itunes:duration>1:18</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <description><![CDATA[<p>Presentació de la temporada sis del podcast, dedicada a vigilar la intel·ligència artificial en salut mental. Recorre set articles: el panorama general, els defectes de mètode i d'avaluació, els reptes ètics, la seguretat dels xatbots que fan servir els joves i què demanen els mateixos joves.</p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E0.jpg"/>
+    </item>
+    <item>
+      <title>T6·E1 · Del plànol a l&#x27;obra</title>
+      <guid isPermaLink="false">serie-T6E1</guid>
+      <pubDate>Sun, 04 Jan 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T6E1_39_IA-salut-mental-2022.mp3" length="8105070" type="audio/mpeg"/>
+      <itunes:duration>11:08</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Koutsouleris i col·laboradors, 2022, a The Lancet Digital Health: revisió narrativa i de posicionament sobre com traslladar la intel·ligència artificial de la recerca a l'atenció en salut mental. Mostra models predictius prometedors, com DETECT, però també biaixos de dades, manca d'explicabilitat i agents conversacionals que no detecten bé les emergències, i proposa interfícies d'iniciativa mixta amb supervisió humana.</p><p><b>Referència (APA 7):</b> Koutsouleris, N., Hauser, T. U., Skvortsova, V., &amp; De Choudhury, M. (2022). From promise to practice: Towards the realisation of AI-informed mental health care. <i>The Lancet Digital Health</i>, <i>4</i>(11), e829–e840. https://doi.org/10.1016/s2589-7500(22)00153-4</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>En aquest article de la sèrie exploram les promeses i els reptes de les eines de medicina de precisió basades en la intel·ligència artificial (IA) en l'atenció a la salut mental des de les perspectives clínica, ètica i reguladora. La implementació d'aquestes eines en el món real es considera cada vegada més la solució principal per a qüestions clau de la salut mental, com ara una atenció tardana, inexacta i ineficient. De manera semblant, les estratègies empíriques basades en l'aprenentatge automàtic s'estan generalitzant en la recerca psiquiàtrica pel seu potencial per descompondre adequadament la complexitat biopsicosocial dels trastorns mentals i, per tant, millorar la nosologia dels paradigmes pronòstics i preventius. No obstant això, les passes d'implementació necessàries per traslladar aquestes promeses a la pràctica estan actualment obstaculitzades per múltiples reptes que interactuen entre ells. Aquests obstacles van des de l'estat actual de la pràctica clínica, allunyat de la tecnologia, passant per la manca de bases de dades vàlides del món real necessàries per alimentar algoritmes d'IA intensius en dades, fins a unes consideracions de desenvolupament i validació de models desconnectades dels principis fonamentals d'utilitat clínica i d'acceptabilitat ètica. En aquest article de la sèrie oferim recomanacions sobre com es podrien abordar aquests reptes des d'una perspectiva interdisciplinària per obrir el camí cap a un marc d'atenció a la salut mental que aprofiti les fortaleses combinades de la intel·ligència humana i la IA.</p><p><a href="https://doi.org/10.1016/s2589-7500(22)00153-4">DOI</a> · <a href="https://doi.org/10.1016/s2589-7500(22)00153-4">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Koutsouleris_2022_AI_informed_mental_health_care_Lancet_Digit_Health.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E1.jpg"/>
+    </item>
+    <item>
+      <title>T6·E1 · Del plànol a l&#x27;obra (vídeo)</title>
+      <guid isPermaLink="false">serie-T6E1-video</guid>
+      <pubDate>Sun, 04 Jan 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/39_IA-salut-mental-2022.mp4" length="5586807" type="video/mp4"/>
+      <itunes:duration>7:46</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E1.jpg"/>
+    </item>
+    <item>
+      <title>T6·E2 · Xarxa de malla ampla</title>
+      <guid isPermaLink="false">serie-T6E2</guid>
+      <pubDate>Sun, 04 Jan 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T6E2_46_LLM-salut-mental-2024.mp3" length="3535204" type="audio/mpeg"/>
+      <itunes:duration>4:46</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Lawrence i col·laboradors, 2024, a JMIR Mental Health: revisió de perspectiva sobre les oportunitats i els riscos dels grans models de llenguatge en educació, avaluació i intervenció en salut mental. Els models poden encertar categories diagnòstiques generals, però mostren baixa sensibilitat en casos complexos, variabilitat en les respostes i tendència a subestimar el risc de suïcidi, per la qual cosa demanen ajustament de domini i supervisió humana.</p><p><b>Referència (APA 7):</b> Lawrence, H. R., Schneider, R. A., Rubin, S. B., Matarić, M. J., McDuff, D. J., &amp; Jones Bell, M. (2024). The opportunities and risks of large language models in mental health. <i>JMIR Mental Health</i>, <i>11</i>, Article e59479. https://doi.org/10.2196/59479</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Les taxes mundials de problemes de salut mental augmenten, i cada vegada som més conscients que els models actuals d'atenció a la salut mental no s'ampliaran prou per satisfer la demanda. L'aparició dels grans models de llenguatge (LLMs) ha generat un gran optimisme quant a la seva promesa de crear solucions noves i a gran escala per donar suport a la salut mental. Malgrat el seu caràcter incipient, els LLMs ja s'han aplicat a tasques relacionades amb la salut mental. En aquest article resumim la literatura existent sobre els esforços per emprar els LLMs per oferir educació, avaluació i intervenció en salut mental, i destacam les oportunitats clau d'impacte positiu en cada àmbit. A continuació, destacam els riscs associats a l'aplicació dels LLMs a la salut mental i encoratjam l'adopció d'estratègies per mitigar-los. La necessitat urgent de suport en salut mental s'ha d'equilibrar amb un desenvolupament, una prova i un desplegament responsables dels LLMs de salut mental. És especialment crucial garantir que els LLMs de salut mental estiguin ajustats (fine-tuned) per a la salut mental, que afavoreixin l'equitat en salut mental i que s'ajustin als estàndards ètics, i que les persones, incloses les que tenen experiència viscuda de problemes de salut mental, participin en totes les etapes, des del desenvolupament fins al desplegament. Prioritzar aquests esforços minimitzarà els possibles danys a la salut mental i maximitzarà la probabilitat que els LLMs tenguin un impacte positiu en la salut mental a escala mundial.</p><p><a href="https://doi.org/10.2196/59479">DOI</a> · <a href="https://doi.org/10.2196/59479">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Lawrence_2024_Opportunities_risks_LLM_mental_health_JMIR_Ment_Health.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E2.jpg"/>
+    </item>
+    <item>
+      <title>T6·E3 · La piràmide sense base</title>
+      <guid isPermaLink="false">serie-T6E3</guid>
+      <pubDate>Sun, 04 Jan 2026 14:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T6E3_45_LLM-mental-health-2025.mp3" length="8886746" type="audio/mpeg"/>
+      <itunes:duration>12:13</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Hua i col·laboradors, 2025, a npj Digital Medicine: revisió d'abast de setze estudis sobre grans models de llenguatge en tasques generatives de salut mental, avaluats amb una piràmide de tres nivells. Hi ha resultats prometedors, però només tres estudis varen avaluar la seguretat, la privacitat i l'equitat, la meitat no va emprar instruments clínics validats i cap no va fer seguiment a llarg termini.</p><p><b>Referència (APA 7):</b> Hua, Y., Na, H., Li, Z., Liu, F., Fang, X., Clifton, D., &amp; Torous, J. (2025). A scoping review of large language models for generative tasks in mental health care. <i>npj Digital Medicine</i>, <i>8</i>(1), Article 230. https://doi.org/10.1038/s41746-025-01611-4</p><p><a href="https://doi.org/10.1038/s41746-025-01611-4">DOI</a> · <a href="https://www.nature.com/articles/s41746-025-01611-4.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Hua_2025_LLM_generative_tasks_mental_health_scoping_npj_Digit_Med.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E3.jpg"/>
+    </item>
+    <item>
+      <title>T6·E3 · La piràmide sense base (vídeo)</title>
+      <guid isPermaLink="false">serie-T6E3-video</guid>
+      <pubDate>Sun, 04 Jan 2026 15:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/45_LLM-mental-health-2025.mp4" length="5113309" type="video/mp4"/>
+      <itunes:duration>7:13</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E3.jpg"/>
+    </item>
+    <item>
+      <title>T6·E4 · Examinar-se a casa</title>
+      <guid isPermaLink="false">serie-T6E4</guid>
+      <pubDate>Sun, 04 Jan 2026 16:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T6E4_48_IA-salut-mental-2023.mp3" length="9071081" type="audio/mpeg"/>
+      <itunes:duration>12:28</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Tornero-Costa i col·laboradors, 2023, a JMIR Mental Health: revisió sistemàtica de cent cinquanta-tres aplicacions d'intel·ligència artificial en recerca en salut mental publicades entre 2016 i 2021. El noranta coma vuit per cent presentava alt risc de biaix, poques justificaven la mida de la mostra o tractaven bé les dades perdudes, i només el tretze coma set per cent va fer validació externa.</p><p><b>Referència (APA 7):</b> Tornero-Costa, R., Martinez-Millana, A., Azzopardi-Muscat, N., Lazeri, L., Traver, V., &amp; Novillo-Ortiz, D. (2023). Methodological and quality flaws in the use of artificial intelligence in mental health research: Systematic review. <i>JMIR Mental Health</i>, <i>10</i>, Article e42045. https://doi.org/10.2196/42045</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents:<br/>La intel·ligència artificial (IA) està donant lloc a una revolució en la medicina i l'atenció sanitària. Els problemes de salut mental són molt prevalents en molts països, i la pandèmia de COVID-19 ha augmentat el risc d'una erosió més gran del benestar mental de la població. Per això, és pertinent avaluar l'estat actual de l'aplicació de la IA a la recerca en salut mental per informar sobre tendències, llacunes, oportunitats i reptes.<br/>Objectiu:<br/>Aquest estudi té com a objectiu fer una visió de conjunt sistemàtica de les aplicacions de la IA en salut mental pel que fa a metodologies, dades, resultats, rendiment i qualitat.<br/>Mètodes:<br/>Es va fer una cerca sistemàtica a les bases de dades PubMed, Scopus, IEEE Xplore i Cochrane per recollir registres de casos d'ús de la IA en estudis de trastorns mentals des de gener de 2016 fins a novembre de 2021. Es va examinar l'elegibilitat dels registres segons si eren una implementació pràctica de la IA en assaigs clínics amb problemes de salut mental. Els registres de casos d'estudi d'IA es varen avaluar i categoritzar segons la Classificació Internacional de Malalties, 11a revisió (ICD-11). Les dades relatives a l'entorn dels assaigs, la metodologia de recollida, les variables, els resultats i el desenvolupament i l'avaluació dels models es varen extreure seguint la guia CHARMS (Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modelling Studies). A més, s'aporta l'avaluació del risc de biaix.<br/>Resultats:<br/>Es varen recuperar de les bases de dades un total de 429 registres no duplicats i se'n varen incloure 129 per a una avaluació completa, 18 dels quals es varen afegir manualment. Es va constatar que la distribució de les aplicacions de la IA en salut mental estava desequilibrada entre les categories de salut mental de l'ICD-11. Les categories predominants eren els trastorns depressius (n = 70) i l'esquizofrènia o altres trastorns psicòtics primaris (n = 26). La majoria d'intervencions es basaven en assaigs controlats aleatoritzats (n = 62), seguits de cohorts prospectives (n = 24) entre els estudis observacionals. La IA s'aplicava normalment per avaluar la qualitat dels tractaments (n = 44) o per estratificar els pacients en subgrups i clústers (n = 31). Els models solien aplicar una combinació de qüestionaris i escales per avaluar la gravetat dels símptomes a partir d'històries clíniques electròniques (n = 49), així com d'imatges mèdiques (n = 33). L'avaluació de la qualitat va revelar deficiències importants en el procés d'aplicació de la IA i en els processos de preprocessament de dades. Un terç dels estudis (n = 56) no informaven de cap preprocessament ni preparació de dades. Una cinquena part dels models es varen desenvolupar comparant diversos mètodes (n = 35) sense avaluar-ne prèviament la idoneïtat, i una petita proporció informava de validació externa (n = 21). Només 1 article informava d'una segona avaluació d'un model d'IA previ. El risc de biaix i la transparència de la comunicació de resultats varen obtenir puntuacions baixes a causa d'una comunicació deficient de l'estratègia d'ajust dels hiperparàmetres, dels coeficients i de l'explicabilitat dels models. La col·laboració internacional era anecdòtica (n = 17), i les dades i els models desenvolupats romanien majoritàriament privats (n = 126).<br/>Conclusions:<br/>Aquestes deficiències significatives, juntament amb la manca d'informació per garantir la reproductibilitat i la transparència, són indicatives dels reptes que la IA en salut mental ha d'afrontar abans de poder contribuir a una base sòlida per a la generació de coneixement i de ser una eina de suport en la gestió de la salut mental.</p><p><a href="https://doi.org/10.2196/42045">DOI</a> · <a href="https://mental.jmir.org/2023/1/e42045/PDF">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Tornero-Costa_2023_Methodological_flaws_AI_mental_health_SR_JMIR_Ment_Health.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E4.jpg"/>
+    </item>
+    <item>
+      <title>T6·E4 · Examinar-se a casa (vídeo)</title>
+      <guid isPermaLink="false">serie-T6E4-video</guid>
+      <pubDate>Sun, 04 Jan 2026 17:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/48_IA-salut-mental-2023.mp4" length="5348336" type="video/mp4"/>
+      <itunes:duration>7:31</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E4.jpg"/>
+    </item>
+    <item>
+      <title>T6·E5 · Mapa de despatx</title>
+      <guid isPermaLink="false">serie-T6E5</guid>
+      <pubDate>Sun, 04 Jan 2026 18:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T6E5_47_CAI-ethics-scoping-2025.mp3" length="9198882" type="audio/mpeg"/>
+      <itunes:duration>12:37</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Rahsepar Meadi i col·laboradors, 2025, a JMIR Mental Health: revisió d'abast de cent un articles sobre els reptes ètics de la intel·ligència artificial conversacional en salut mental. Identifica deu eixos ètics, encapçalats per la privacitat i la seguretat, i constata que només el deu coma nou per cent dels treballs aporta dades empíriques.</p><p><b>Referència (APA 7):</b> Rahsepar Meadi, M., Sillekens, T., Metselaar, S., van Balkom, A., Bernstein, J., &amp; Batelaan, N. (2025). Exploring the ethical challenges of conversational AI in mental health care: Scoping review. <i>JMIR Mental Health</i>, <i>12</i>, Article e60432. https://doi.org/10.2196/60432</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents:<br/>La intel·ligència artificial conversacional (CAI) emergeix com una tecnologia digital prometedora per a l'atenció a la salut mental. Les aplicacions de CAI, com els chatbots psicoterapèutics, estan disponibles a les botigues d'aplicacions, però el seu ús planteja qüestions ètiques.<br/>Objectiu:<br/>Ens vàrem proposar oferir una visió de conjunt exhaustiva de les consideracions ètiques entorn de la CAI com a terapeuta per a persones amb problemes de salut mental.<br/>Mètodes:<br/>Vàrem dur a terme una cerca sistemàtica a les bases de dades PubMed, Embase, APA PsycINFO, Web of Science, Scopus, Philosopher's Index i ACM Digital Library. La nostra cerca constava de 3 elements: intel·ligència artificial corporeïtzada, ètica i salut mental. Vàrem definir la CAI com un agent conversacional que interactua amb una persona i que fa servir la intel·ligència artificial per formular la seva resposta. Vàrem incloure articles que tractaven els reptes ètics de la CAI quan exerceix el paper de terapeuta per a persones amb problemes de salut mental. Vàrem afegir articles addicionals mitjançant una cerca en bola de neu. Vàrem incloure articles en anglès o en neerlandès. Es varen considerar tots els tipus d'articles, excepte els resums de simposis. El cribratge d'elegibilitat el varen fer 2 investigadors independents (MRM i TS o AvB). Es va elaborar un formulari inicial d'extracció de dades a partir de les consideracions previstes, que es va revisar i completar durant el procés d'extracció. Els reptes ètics es varen agrupar en temes. Quan una qüestió apareixia en més de 2 articles, la identificàvem com un tema diferenciat.<br/>Resultats:<br/>Vàrem incloure 101 articles, dels quals el 95 % (n = 96) s'havien publicat el 2018 o més tard. La majoria eren revisions (n = 22; 21,8 %), seguides de comentaris (n = 17; 16,8 %). Es varen distingir els 10 temes següents: (1) seguretat i dany (tractat en 52/101 articles, el 51,5 %); les qüestions més freqüents dins d'aquest tema eren la suïcidalitat i la gestió de crisis, els suggeriments perjudicials o erronis i el risc de dependència de la CAI; (2) explicabilitat, transparència i confiança (n = 26; 25,7 %), que inclou qüestions com els efectes dels algoritmes de «capsa negra» sobre la confiança; (3) responsabilitat i rendició de comptes (n = 31; 30,7 %); (4) empatia i humanitat (n = 29; 28,7 %); (5) justícia (n = 41; 40,6 %), que inclou qüestions com les desigualtats en salut derivades de les diferències en alfabetització digital; (6) antropomorfització i engany (n = 24; 23,8 %); (7) autonomia (n = 12; 11,9 %); (8) efectivitat (n = 38; 37,6 %); (9) privadesa i confidencialitat (n = 62; 61,4 %), i (10) preocupació pels llocs de feina dels professionals sanitaris (n = 16; 15,8 %). Altres temes es tractaven en el 9,9 % (n = 10) dels articles identificats.<br/>Conclusions:<br/>La nostra revisió d'abast ha cobert de manera exhaustiva els aspectes ètics de la CAI en l'atenció a la salut mental. Tot i que alguns temes continuen poc explorats i les perspectives de les parts interessades estan insuficientment representades, aquest estudi posa de relleu àrees crítiques per a la recerca futura. Entre aquestes hi ha avaluar els riscs i els beneficis de la CAI en comparació amb els terapeutes humans, determinar-ne els rols adequats en contextos terapèutics i el seu impacte en l'accés a l'atenció, i abordar la rendició de comptes. Abordar aquestes llacunes pot orientar l'anàlisi normativa i guiar l'elaboració de directrius ètiques per a un ús responsable de la CAI en l'atenció a la salut mental.</p><p><a href="https://doi.org/10.2196/60432">DOI</a> · <a href="https://doi.org/10.2196/60432">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/RahseparMeadi_2025_Ethical_challenges_conversational_AI_scoping_JMIR_Ment_Health.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E5.jpg"/>
+    </item>
+    <item>
+      <title>T6·E5 · Mapa de despatx (vídeo)</title>
+      <guid isPermaLink="false">serie-T6E5-video</guid>
+      <pubDate>Sun, 04 Jan 2026 19:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/47_CAI-ethics-scoping-2025.mp4" length="5170859" type="video/mp4"/>
+      <itunes:duration>7:26</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E5.jpg"/>
+    </item>
+    <item>
+      <title>T6·E6 · Porta oberta, cadira buida</title>
+      <guid isPermaLink="false">serie-T6E6</guid>
+      <pubDate>Sun, 04 Jan 2026 20:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T6E6_43_SOBOWALE-2025.mp3" length="9711931" type="audio/mpeg"/>
+      <itunes:duration>13:23</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Sobowale i col·laboradors, 2025, a JMIR Mental Health: estudi transversal que va avaluar, amb perfils clínics simulats i el marc CAPE-II, cinc xatbots d'intel·ligència artificial generativa populars entre els joves. Varen puntuar alt en accessibilitat, però molt baix en enfocament terapèutic, monitoratge del risc i transparència, i es varen documentar respostes perilloses en simulacions de risc suïcida.</p><p><b>Referència (APA 7):</b> Sobowale, K., Humphrey, D. K., &amp; Zhao, S. Y. (2025). Evaluating generative AI psychotherapy chatbots used by youth: Cross-sectional study. <i>JMIR Mental Health</i>, <i>12</i>, Article e79838. https://doi.org/10.2196/79838</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Antecedents:<br/>Molts joves recorren a chatbots d'intel·ligència artificial generativa (GenAI) d'accés directe al consumidor per obtenir suport en salut mental; tanmateix, la qualitat de les capacitats psicoterapèutiques d'aquests chatbots està poc estudiada.<br/>Objectiu:<br/>Aquest estudi tenia com a objectiu avaluar i comparar de manera exhaustiva la qualitat de chatbots de GenAI d'ús estès amb capacitats psicoterapèutiques mitjançant el marc Conversational Agent for Psychotherapy Evaluation II (CAPE-II).<br/>Mètodes:<br/>En aquest estudi transversal, avaluadors formats varen emprar el marc CAPE-II per puntuar la qualitat de 5 chatbots de plataformes de GenAI àmpliament emprades per la gent jove. Els avaluadors formats varen fer un joc de rol com a joves, amb perfils de joves amb dificultats de salut mental, per interpel·lar els chatbots i facilitar les converses. Les respostes dels chatbots es varen generar d'agost a octubre de 2024. Els resultats primaris eren les puntuacions assignades en 9 seccions. La proporció de puntuacions d'alta qualitat (puntuació binària d'1) en cada secció es va comparar entre chatbots mitjançant proves de khi quadrat amb correcció de Bonferroni.<br/>Resultats:<br/>Si bé els chatbots de GenAI varen resultar accessibles (104/120 puntuacions d'alta qualitat, 86,7 %) i evitaven afirmacions perjudicials i desinformació (71/80, 89 %), varen tenir un rendiment deficient pel que fa a l'enfocament terapèutic (14/45, 31 %) i a la capacitat de monitorar i avaluar el risc (31/80, 39 %). Les polítiques de privadesa eren difícils d'entendre, i la informació sobre l'entrenament i el coneixement dels models dels chatbots no estava disponible, la qual cosa va donar lloc a puntuacions baixes. Les proves de khi quadrat amb correcció de Bonferroni varen mostrar diferències estadísticament significatives en la qualitat dels chatbots en les seccions d'informació de context, enfocament terapèutic i monitoratge i avaluació del risc. Qualitativament, els avaluadors varen percebre que la majoria de chatbots tenien bones capacitats conversacionals, però que patien diversos problemes, entre els quals contingut inventat i una gestió deficient de les situacions de crisi.<br/>Conclusions:<br/>Els chatbots de GenAI d'accés directe al consumidor no són segurs per als milions de joves que els fan servir. Tot i que mostren punts forts en accessibilitat i capacitats conversacionals, comporten riscs inacceptables per una gestió inadequada de les crisis i per la manca de transparència sobre la privadesa i l'entrenament dels models. Calen reformes immediates, entre les quals l'ús d'auditories de qualitat estandarditzades, com el marc CAPE-II. Aquestes troballes proporcionen objectius d'actuació concrets per a les plataformes, els reguladors i els responsables polítics per protegir els joves que cerquen suport en salut mental.</p><p><a href="https://doi.org/10.2196/79838">DOI</a> · <a href="https://jmir.org/api/download?alt_name=mental_v12i1e79838_app2.pdf&amp;filename=4eb2e071-d60d-11f0-896b-c73e8ad83902.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Sobowale_2025_Generative_AI_psychotherapy_chatbots_youth_safety_JMIR_Ment_Health.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E6.jpg"/>
+    </item>
+    <item>
+      <title>T6·E6 · Porta oberta, cadira buida (vídeo)</title>
+      <guid isPermaLink="false">serie-T6E6-video</guid>
+      <pubDate>Sun, 04 Jan 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/43_SOBOWALE-2025.mp4" length="5240032" type="video/mp4"/>
+      <itunes:duration>7:16</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E6.jpg"/>
+    </item>
+    <item>
+      <title>T6·E7 · Guia, no amic</title>
+      <guid isPermaLink="false">serie-T6E7</guid>
+      <pubDate>Sun, 04 Jan 2026 22:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/episodis/T6E7_41_POULSEN-2026.mp3" length="8529088" type="audio/mpeg"/>
+      <itunes:duration>11:43</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[<p>Poulsen i col·laboradors, 2026, a npj Digital Medicine: estudi qualitatiu de codisseny amb trenta-dos joves de divuit a trenta anys a Austràlia a partir del prototip Mia. Els joves varen acceptar la intel·ligència artificial generativa com a suport que augmenta la feina dels professionals, varen demanar transparència i personalització, i varen proposar que les converses siguin privades i que només es comparteixin resums i alertes de risc.</p><p><b>Referència (APA 7):</b> Poulsen, A., Hickie, I. B., Gorban, C., de Haan, Z., Capon, W., Eyeson-Annan, E., Radwan, J., Scott, E. M., Iorfino, F., &amp; LaMonica, H. M. (2026). Young people’s perceptions and recommendations for conversational generative artificial intelligence in youth mental health. <i>npj Digital Medicine</i>. https://doi.org/10.1038/s41746-026-02888-9</p><p><b>Resum de l'article</b> (traducció al català; llicència cc-by):<br/>Els agents conversacionals d'intel·ligència artificial generativa (o chatbots de genAI) podrien beneficiar la salut mental juvenil, però les perspectives de la gent jove continuen poc explorades. Vàrem examinar el Mental health Intelligence Agent (Mia), un chatbot de genAI dissenyat originalment per a professionals dels serveis per a joves d'Austràlia. Seguint un procés de codisseny, 32 joves varen participar en tallers en línia per explorar les seves percepcions sobre els chatbots de genAI en la salut mental juvenil i per elaborar recomanacions per reconceptualitzar Mia per a les persones usuàries i integrar-lo en els serveis. Mitjançant una anàlisi temàtica reflexiva es varen desenvolupar quatre temes: (1) Humanitzar la IA sense deshumanitzar l'atenció, (2) Necessit saber què hi ha davall el capó, (3) L'eina adequada, al lloc adequat, en el moment adequat?, i (4) Fer-lo meu en terreny segur. Aquest estudi aporta coneixement sobre les actituds, les necessitats i els requisits de la gent jove pel que fa als chatbots de genAI en la salut mental juvenil, amb implicacions clau per a la integració en els serveis. A més, mitjançant el codisseny dels requisits del sistema, aquest treball orienta l'ètica, el disseny, el desenvolupament, la implementació i la governança dels chatbots de genAI en contextos de salut mental juvenil.</p><p><a href="https://doi.org/10.1038/s41746-026-02888-9">DOI</a> · <a href="https://www.nature.com/articles/s41746-026-02888-9_reference.pdf">Text complet en accés obert</a> · <a href="https://uibes-my.sharepoint.com/personal/jgm288_id_uib_eu/Documents/PDI/Tesi/Versi%C3%B3%20Tesi%202.0/Esborranys/Referencies_citades/Poulsen_2026_Young_people_perceptions_generative_AI_npj_Digit_Med.pdf">PDF al OneDrive de la UIB (accés personal)</a></p>]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E7.jpg"/>
+    </item>
+    <item>
+      <title>T6·E7 · Guia, no amic (vídeo)</title>
+      <guid isPermaLink="false">serie-T6E7-video</guid>
+      <pubDate>Sun, 04 Jan 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/videos/41_POULSEN-2026.mp4" length="6109699" type="video/mp4"/>
+      <itunes:duration>8:39</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description><![CDATA[Resum en vídeo de l'episodi.]]></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/afd418ebbf6/69ZXfrIql5oa9nexs1VjIYWn/serie/portades/T6E7.jpg"/>
+    </item>
+  </channel>
+</rss>
